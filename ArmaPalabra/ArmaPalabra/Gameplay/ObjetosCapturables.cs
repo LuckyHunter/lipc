@@ -65,7 +65,7 @@ namespace ArmaPalabra.Gameplay
             return lstObjetos.FindAll(x => !x.pregunta);
         }
 
-
+        //Hola Oscar
 
         public void LoadResources()
         {
