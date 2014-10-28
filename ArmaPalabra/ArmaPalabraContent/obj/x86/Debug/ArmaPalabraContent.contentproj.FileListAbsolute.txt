@@ -1,0 +1,9 @@
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache

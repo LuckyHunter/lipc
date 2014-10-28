@@ -1,0 +1,2292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bone.png</Source>
+      <Name>Bone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonComenzar.png</Source>
+      <Name>botonComenzar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonContinuar.png</Source>
+      <Name>botonContinuar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonIrInicio.png</Source>
+      <Name>botonIrInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonSalir.png</Source>
+      <Name>botonSalir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>burbuja.png</Source>
+      <Name>burbuja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cabeza.png</Source>
+      <Name>cabeza</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cabeza2.png</Source>
+      <Name>cabeza2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>canastaAzul.png</Source>
+      <Name>canastaAzul</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>canastaRojo.png</Source>
+      <Name>canastaRojo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ChooserBackground.png</Source>
+      <Name>ChooserBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>clothTexture.png</Source>
+      <Name>clothTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cottonTexture.png</Source>
+      <Name>cottonTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FondoPausa.png</Source>
+      <Name>FondoPausa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>GameBackground.png</Source>
+      <Name>GameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gamePBackground.png</Source>
+      <Name>gamePBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>guiaFondo.png</Source>
+      <Name>guiaFondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>handIcon.png</Source>
+      <Name>handIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joint.png</Source>
+      <Name>Joint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>JointCloth.png</Source>
+      <Name>JointCloth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letrero.png</Source>
+      <Name>letrero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mano-der.png</Source>
+      <Name>mano-der</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mano-izq.png</Source>
+      <Name>mano-izq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto1.png</Source>
+      <Name>objeto1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto10.png</Source>
+      <Name>objeto10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto11.png</Source>
+      <Name>objeto11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto12.png</Source>
+      <Name>objeto12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto13.png</Source>
+      <Name>objeto13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto14.png</Source>
+      <Name>objeto14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto15.png</Source>
+      <Name>objeto15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto16.png</Source>
+      <Name>objeto16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto17.png</Source>
+      <Name>objeto17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto18.png</Source>
+      <Name>objeto18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto2.png</Source>
+      <Name>objeto2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto3.png</Source>
+      <Name>objeto3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto4.png</Source>
+      <Name>objeto4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto5.png</Source>
+      <Name>objeto5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto6.png</Source>
+      <Name>objeto6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto7.png</Source>
+      <Name>objeto7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto8.png</Source>
+      <Name>objeto8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objeto9.png</Source>
+      <Name>objeto9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tituloAtrapaAgrupa.png</Source>
+      <Name>tituloAtrapaAgrupa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tituloPausa.png</Source>
+      <Name>tituloPausa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tituloReventarGlobos.png</Source>
+      <Name>tituloReventarGlobos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>valdeAmarillo.png</Source>
+      <Name>valdeAmarillo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>valdeAzul.png</Source>
+      <Name>valdeAzul</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>valdeChico.png</Source>
+      <Name>valdeChico</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>valdeGrande.png</Source>
+      <Name>valdeGrande</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>valdeRojo.png</Source>
+      <Name>valdeRojo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letter_A.jpg</Source>
+      <Name>letter_A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb</Output>
+      <Time>2014-06-08T01:29:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letter_E.jpg</Source>
+      <Name>letter_E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb</Output>
+      <Time>2014-06-08T01:27:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letter_L.jpg</Source>
+      <Name>letter_L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb</Output>
+      <Time>2014-06-08T01:27:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letter_M.jpg</Source>
+      <Name>letter_M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb</Output>
+      <Time>2014-06-08T01:29:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letter_N.jpg</Source>
+      <Name>letter_N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb</Output>
+      <Time>2014-06-08T01:28:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letter_O.jpg</Source>
+      <Name>letter_O</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb</Output>
+      <Time>2014-06-08T01:28:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>base_Letter.jpg</Source>
+      <Name>base_Letter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb</Output>
+      <Time>2014-09-08T20:20:02.7401313-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letterResourse.jpg</Source>
+      <Name>letterResourse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb</Output>
+      <Time>2014-06-12T18:39:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprite.png</Source>
+      <Name>sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb</Output>
+      <Time>2014-06-12T19:24:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_a.png</Source>
+      <Name>letras\letra_a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb</Output>
+      <Time>2014-09-08T23:32:08.3301949-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_b.png</Source>
+      <Name>letras\letra_b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_c.png</Source>
+      <Name>letras\letra_c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_d.png</Source>
+      <Name>letras\letra_d</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_e.png</Source>
+      <Name>letras\letra_e</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb</Output>
+      <Time>2014-09-08T23:33:50.6944175-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_f.png</Source>
+      <Name>letras\letra_f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_g.png</Source>
+      <Name>letras\letra_g</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_h.png</Source>
+      <Name>letras\letra_h</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_i.png</Source>
+      <Name>letras\letra_i</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb</Output>
+      <Time>2014-09-08T23:34:51.6295726-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_j.png</Source>
+      <Name>letras\letra_j</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_k.png</Source>
+      <Name>letras\letra_k</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_l.png</Source>
+      <Name>letras\letra_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_m.png</Source>
+      <Name>letras\letra_m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_n.png</Source>
+      <Name>letras\letra_n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_ñ.png</Source>
+      <Name>letras\letra_ñ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ñ.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_o.png</Source>
+      <Name>letras\letra_o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb</Output>
+      <Time>2014-09-08T23:35:38.9455617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_p.png</Source>
+      <Name>letras\letra_p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_q.png</Source>
+      <Name>letras\letra_q</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_r.png</Source>
+      <Name>letras\letra_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_rr.png</Source>
+      <Name>letras\letra_rr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_s.png</Source>
+      <Name>letras\letra_s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_t.png</Source>
+      <Name>letras\letra_t</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_u.png</Source>
+      <Name>letras\letra_u</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb</Output>
+      <Time>2014-09-08T23:36:07.3296539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_v.png</Source>
+      <Name>letras\letra_v</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_w.png</Source>
+      <Name>letras\letra_w</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_x.png</Source>
+      <Name>letras\letra_x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_y.png</Source>
+      <Name>letras\letra_y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>letras\letra_z.png</Source>
+      <Name>letras\letra_z</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb</Output>
+      <Time>2014-06-15T15:53:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>imagenes\game.jpg</Source>
+      <Name>imagenes\game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb</Output>
+      <Time>2014-06-17T04:37:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>imagenes\logo.png</Source>
+      <Name>imagenes\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb</Output>
+      <Time>2014-06-17T04:35:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>imagenes\logo1.png</Source>
+      <Name>imagenes\logo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb</Output>
+      <Time>2014-06-17T04:40:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>imagenes\menu.jpg</Source>
+      <Name>imagenes\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb</Output>
+      <Time>2014-06-17T04:35:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>imagenes\logoC.png</Source>
+      <Name>imagenes\logoC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb</Output>
+      <Time>2014-06-21T01:32:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_caballo.png</Source>
+      <Name>animales\img_caballo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb</Output>
+      <Time>2014-07-13T18:14:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_camello.png</Source>
+      <Name>animales\img_camello</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb</Output>
+      <Time>2014-07-13T18:14:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_cebra.png</Source>
+      <Name>animales\img_cebra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb</Output>
+      <Time>2014-07-13T18:27:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_cerdo.png</Source>
+      <Name>animales\img_cerdo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb</Output>
+      <Time>2014-07-13T18:25:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_conejo.png</Source>
+      <Name>animales\img_conejo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb</Output>
+      <Time>2014-07-13T18:24:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_foca.png</Source>
+      <Name>animales\img_foca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb</Output>
+      <Time>2014-07-13T18:15:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_gato.png</Source>
+      <Name>animales\img_gato</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb</Output>
+      <Time>2014-07-13T18:19:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_jirafa.png</Source>
+      <Name>animales\img_jirafa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb</Output>
+      <Time>2014-07-13T18:24:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_leon.png</Source>
+      <Name>animales\img_leon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb</Output>
+      <Time>2014-07-13T18:25:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_llama.png</Source>
+      <Name>animales\img_llama</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb</Output>
+      <Time>2014-07-13T18:15:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_lobo.png</Source>
+      <Name>animales\img_lobo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb</Output>
+      <Time>2014-07-13T18:26:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_loro.png</Source>
+      <Name>animales\img_loro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb</Output>
+      <Time>2014-07-13T22:37:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_perro.png</Source>
+      <Name>animales\img_perro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb</Output>
+      <Time>2014-07-13T22:38:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_tigre.png</Source>
+      <Name>animales\img_tigre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb</Output>
+      <Time>2014-07-13T18:11:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_vaca.png</Source>
+      <Name>animales\img_vaca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb</Output>
+      <Time>2014-07-13T18:15:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gamePBackground1.jpg</Source>
+      <Name>gamePBackground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb</Output>
+      <Time>2014-09-08T19:41:55.4336374-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_oso.png</Source>
+      <Name>animales\img_oso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb</Output>
+      <Time>2014-09-08T22:59:22.4092729-05:00</Time>
+    </Item>
+    <Item>
+      <Source>animales\img_elefante.png</Source>
+      <Name>animales\img_elefante</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb</Output>
+      <Time>2014-09-08T22:55:54.3203625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_arroz.png</Source>
+      <Name>comidas\img_arroz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_arroz.xnb</Output>
+      <Time>2014-09-23T18:30:31.206082-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_cereal.png</Source>
+      <Name>comidas\img_cereal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_cereal.xnb</Output>
+      <Time>2014-09-23T18:30:31.2070813-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_empanada.png</Source>
+      <Name>comidas\img_empanada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_empanada.xnb</Output>
+      <Time>2014-09-23T18:30:31.2080833-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_galleta.png</Source>
+      <Name>comidas\img_galleta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_galleta.xnb</Output>
+      <Time>2014-09-23T18:30:31.2090839-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_jamonada.png</Source>
+      <Name>comidas\img_jamonada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_jamonada.xnb</Output>
+      <Time>2014-09-23T18:30:31.2100846-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_lechuga.png</Source>
+      <Name>comidas\img_lechuga</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_lechuga.xnb</Output>
+      <Time>2014-09-23T18:30:31.2110853-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_pera.png</Source>
+      <Name>comidas\img_pera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_pera.xnb</Output>
+      <Time>2014-09-23T18:30:31.2110853-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_piña.png</Source>
+      <Name>comidas\img_piña</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_piña.xnb</Output>
+      <Time>2014-09-23T18:30:31.2120855-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_sandia.png</Source>
+      <Name>comidas\img_sandia</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_sandia.xnb</Output>
+      <Time>2014-09-23T18:30:31.2130862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>comidas\img_torta.png</Source>
+      <Name>comidas\img_torta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_torta.xnb</Output>
+      <Time>2014-09-23T18:30:31.2140877-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_borrador.png</Source>
+      <Name>objetos\img_borrador</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_borrador.xnb</Output>
+      <Time>2014-09-23T18:31:06.5186849-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_cuchara.png</Source>
+      <Name>objetos\img_cuchara</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_cuchara.xnb</Output>
+      <Time>2014-09-23T18:31:06.5196847-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_lapiz.png</Source>
+      <Name>objetos\img_lapiz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_lapiz.xnb</Output>
+      <Time>2014-09-23T18:31:06.5196847-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_mesa.png</Source>
+      <Name>objetos\img_mesa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mesa.xnb</Output>
+      <Time>2014-09-23T18:31:06.5206854-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_mochila.png</Source>
+      <Name>objetos\img_mochila</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mochila.xnb</Output>
+      <Time>2014-09-23T18:31:06.5206854-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_pelota.png</Source>
+      <Name>objetos\img_pelota</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_pelota.xnb</Output>
+      <Time>2014-09-23T18:31:06.5216869-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_reloj.png</Source>
+      <Name>objetos\img_reloj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_reloj.xnb</Output>
+      <Time>2014-09-23T18:31:06.5554644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_silla.png</Source>
+      <Name>objetos\img_silla</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_silla.xnb</Output>
+      <Time>2014-09-23T18:31:06.5564651-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_telefono.png</Source>
+      <Name>objetos\img_telefono</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_telefono.xnb</Output>
+      <Time>2014-09-23T18:31:06.5564651-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_tijera.png</Source>
+      <Name>objetos\img_tijera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_tijera.xnb</Output>
+      <Time>2014-09-23T18:31:06.5574666-05:00</Time>
+    </Item>
+    <Item>
+      <Source>objetos\img_caja.png</Source>
+      <Name>objetos\img_caja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_caja.xnb</Output>
+      <Time>2014-09-28T13:08:29.5676323-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FuenteMensaje.spritefont</Source>
+      <Name>FuenteMensaje</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Segoe16.spritefont</Source>
+      <Name>Segoe16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb</Output>
+      <Time>2014-06-07T17:09:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\aparecer.mp3</Source>
+      <Name>sonidos\aparecer</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb</Output>
+      <Extra>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma</Extra>
+      <Time>2014-06-07T17:10:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\backgroundMusic.mp3</Source>
+      <Name>sonidos\backgroundMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb</Output>
+      <Extra>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma</Extra>
+      <Time>2014-06-07T17:10:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\backgroundMusic1.mp3</Source>
+      <Name>sonidos\backgroundMusic1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb</Output>
+      <Extra>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma</Extra>
+      <Time>2014-07-13T18:51:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\backgroundMusic2.mp3</Source>
+      <Name>sonidos\backgroundMusic2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb</Output>
+      <Extra>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma</Extra>
+      <Time>2014-07-13T18:51:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\blop.wav</Source>
+      <Name>sonidos\blop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb</Output>
+      <Time>2014-06-07T17:10:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\errorGuardar.wav</Source>
+      <Name>sonidos\errorGuardar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb</Output>
+      <Time>2014-06-07T17:10:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\exito.wav</Source>
+      <Name>sonidos\exito</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb</Output>
+      <Time>2014-06-07T17:10:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\guardar.wav</Source>
+      <Name>sonidos\guardar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb</Output>
+      <Time>2014-06-07T17:10:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_caballo.wav</Source>
+      <Name>Sonidos_animales\sound_caballo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb</Output>
+      <Time>2014-06-15T20:53:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_camello.wav</Source>
+      <Name>Sonidos_animales\sound_camello</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb</Output>
+      <Time>2014-06-15T22:16:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_elefante.wav</Source>
+      <Name>Sonidos_animales\sound_elefante</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb</Output>
+      <Time>2014-06-15T20:05:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_hipopótamo.wav</Source>
+      <Name>Sonidos_animales\sound_hipopótamo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb</Output>
+      <Time>2014-06-15T22:25:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_jirafa.wav</Source>
+      <Name>Sonidos_animales\sound_jirafa</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb</Output>
+      <Time>2014-06-15T23:22:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_leon.wav</Source>
+      <Name>Sonidos_animales\sound_leon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb</Output>
+      <Time>2014-06-15T20:02:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_rinoceronte.wav</Source>
+      <Name>Sonidos_animales\sound_rinoceronte</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb</Output>
+      <Time>2014-06-15T23:18:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_tigre.wav</Source>
+      <Name>Sonidos_animales\sound_tigre</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb</Output>
+      <Time>2014-06-15T20:06:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_vaca.wav</Source>
+      <Name>Sonidos_animales\sound_vaca</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb</Output>
+      <Time>2014-07-13T12:50:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\aparecer1.wav</Source>
+      <Name>sonidos\aparecer1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb</Output>
+      <Time>2014-07-13T17:35:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sonidos\blop1.wav</Source>
+      <Name>sonidos\blop1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb</Output>
+      <Time>2014-07-13T17:35:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_cebra.wav</Source>
+      <Name>Sonidos_animales\sound_cebra</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb</Output>
+      <Time>2014-06-15T22:29:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_cerdo.wav</Source>
+      <Name>Sonidos_animales\sound_cerdo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb</Output>
+      <Time>2014-07-13T22:31:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_conejo.wav</Source>
+      <Name>Sonidos_animales\sound_conejo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb</Output>
+      <Time>2014-07-13T22:41:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_foca.wav</Source>
+      <Name>Sonidos_animales\sound_foca</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb</Output>
+      <Time>2014-07-13T22:34:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_gato.wav</Source>
+      <Name>Sonidos_animales\sound_gato</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb</Output>
+      <Time>2014-07-13T22:45:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_lobo.wav</Source>
+      <Name>Sonidos_animales\sound_lobo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb</Output>
+      <Time>2014-07-13T22:53:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_loro.wav</Source>
+      <Name>Sonidos_animales\sound_loro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb</Output>
+      <Time>2014-07-13T22:55:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_perro.wav</Source>
+      <Name>Sonidos_animales\sound_perro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb</Output>
+      <Time>2014-07-13T22:01:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_animales\sound_oso.wav</Source>
+      <Name>Sonidos_animales\sound_oso</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb</Output>
+      <Time>2014-09-02T17:18:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_a.wav</Source>
+      <Name>Sonidos_letras\sound_a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb</Output>
+      <Time>2014-09-06T18:50:07.6170991-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_b.wav</Source>
+      <Name>Sonidos_letras\sound_b</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb</Output>
+      <Time>2014-09-06T18:53:24.4520566-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_c.wav</Source>
+      <Name>Sonidos_letras\sound_c</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb</Output>
+      <Time>2014-09-06T19:00:59.9918935-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_d.wav</Source>
+      <Name>Sonidos_letras\sound_d</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb</Output>
+      <Time>2014-09-06T19:12:47.520771-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_e.wav</Source>
+      <Name>Sonidos_letras\sound_e</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb</Output>
+      <Time>2014-09-06T19:36:27.8152993-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_f.wav</Source>
+      <Name>Sonidos_letras\sound_f</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb</Output>
+      <Time>2014-09-06T19:43:02.7362503-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_g.wav</Source>
+      <Name>Sonidos_letras\sound_g</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb</Output>
+      <Time>2014-09-06T19:46:25.1018545-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_i.wav</Source>
+      <Name>Sonidos_letras\sound_i</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb</Output>
+      <Time>2014-09-06T19:49:09.5768582-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_j.wav</Source>
+      <Name>Sonidos_letras\sound_j</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb</Output>
+      <Time>2014-09-06T19:50:43.2674383-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_k.wav</Source>
+      <Name>Sonidos_letras\sound_k</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb</Output>
+      <Time>2014-09-06T19:55:46.9710407-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_l.wav</Source>
+      <Name>Sonidos_letras\sound_l</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb</Output>
+      <Time>2014-09-06T19:58:53.8754281-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_m.wav</Source>
+      <Name>Sonidos_letras\sound_m</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb</Output>
+      <Time>2014-09-06T20:05:51.0800583-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_n.wav</Source>
+      <Name>Sonidos_letras\sound_n</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb</Output>
+      <Time>2014-09-06T20:06:52.742826-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_o.wav</Source>
+      <Name>Sonidos_letras\sound_o</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb</Output>
+      <Time>2014-09-06T20:12:05.811389-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_p.wav</Source>
+      <Name>Sonidos_letras\sound_p</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb</Output>
+      <Time>2014-09-06T20:16:29.4696053-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_q.wav</Source>
+      <Name>Sonidos_letras\sound_q</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb</Output>
+      <Time>2014-09-06T20:22:47.6272437-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_r.wav</Source>
+      <Name>Sonidos_letras\sound_r</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb</Output>
+      <Time>2014-09-06T20:23:42.4043966-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_s.wav</Source>
+      <Name>Sonidos_letras\sound_s</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb</Output>
+      <Time>2014-09-06T20:24:30.854255-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_t.wav</Source>
+      <Name>Sonidos_letras\sound_t</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb</Output>
+      <Time>2014-09-06T20:25:24.2206153-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_u.wav</Source>
+      <Name>Sonidos_letras\sound_u</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb</Output>
+      <Time>2014-09-06T20:40:34.7674281-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_w.wav</Source>
+      <Name>Sonidos_letras\sound_w</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb</Output>
+      <Time>2014-09-06T21:01:21.111973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_x.wav</Source>
+      <Name>Sonidos_letras\sound_x</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb</Output>
+      <Time>2014-09-06T21:03:44.4584991-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_y.wav</Source>
+      <Name>Sonidos_letras\sound_y</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb</Output>
+      <Time>2014-09-06T20:49:50.4803863-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_z.wav</Source>
+      <Name>Sonidos_letras\sound_z</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb</Output>
+      <Time>2014-09-06T20:47:57.7838352-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_ñ.wav</Source>
+      <Name>Sonidos_letras\sound_ñ</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb</Output>
+      <Time>2014-09-06T20:11:25.451749-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_letras\sound_v.wav</Source>
+      <Name>Sonidos_letras\sound_v</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_v.xnb</Output>
+      <Time>2014-09-25T16:38:38.932895-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_a.wav</Source>
+      <Name>Sonidos_silabas\sound_a</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_a.xnb</Output>
+      <Time>2014-10-25T18:06:50.0756895-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_al.wav</Source>
+      <Name>Sonidos_silabas\sound_al</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_al.xnb</Output>
+      <Time>2014-10-25T18:06:50.0766902-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ba.wav</Source>
+      <Name>Sonidos_silabas\sound_ba</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ba.xnb</Output>
+      <Time>2014-10-25T18:06:50.0776904-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_bo.wav</Source>
+      <Name>Sonidos_silabas\sound_bo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_bo.xnb</Output>
+      <Time>2014-10-25T18:06:50.0786936-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_bra.wav</Source>
+      <Name>Sonidos_silabas\sound_bra</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_bra.xnb</Output>
+      <Time>2014-10-25T18:06:50.0796917-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ca.wav</Source>
+      <Name>Sonidos_silabas\sound_ca</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ca.xnb</Output>
+      <Time>2014-10-25T18:06:50.080692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ce.wav</Source>
+      <Name>Sonidos_silabas\sound_ce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ce.xnb</Output>
+      <Time>2014-10-25T18:06:50.080692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_cer.wav</Source>
+      <Name>Sonidos_silabas\sound_cer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cer.xnb</Output>
+      <Time>2014-10-25T18:06:50.0816939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_cha.wav</Source>
+      <Name>Sonidos_silabas\sound_cha</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cha.xnb</Output>
+      <Time>2014-10-25T18:06:50.0816939-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_chi.wav</Source>
+      <Name>Sonidos_silabas\sound_chi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_chi.xnb</Output>
+      <Time>2014-10-25T18:06:50.0826946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_chu.wav</Source>
+      <Name>Sonidos_silabas\sound_chu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_chu.xnb</Output>
+      <Time>2014-10-25T18:06:50.0826946-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_co.wav</Source>
+      <Name>Sonidos_silabas\sound_co</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_co.xnb</Output>
+      <Time>2014-10-25T18:06:50.0836957-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_cu.wav</Source>
+      <Name>Sonidos_silabas\sound_cu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cu.xnb</Output>
+      <Time>2014-10-25T18:06:50.084695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_da.wav</Source>
+      <Name>Sonidos_silabas\sound_da</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_da.xnb</Output>
+      <Time>2014-10-25T18:06:50.084695-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_dia.wav</Source>
+      <Name>Sonidos_silabas\sound_dia</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_dia.xnb</Output>
+      <Time>2014-10-25T18:06:50.0856957-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_do.wav</Source>
+      <Name>Sonidos_silabas\sound_do</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_do.xnb</Output>
+      <Time>2014-10-25T18:06:50.0856957-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_dor.wav</Source>
+      <Name>Sonidos_silabas\sound_dor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_dor.xnb</Output>
+      <Time>2014-10-25T18:06:50.0866964-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_e.wav</Source>
+      <Name>Sonidos_silabas\sound_e</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_e.xnb</Output>
+      <Time>2014-10-25T18:06:50.0866964-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_em.wav</Source>
+      <Name>Sonidos_silabas\sound_em</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_em.xnb</Output>
+      <Time>2014-10-25T18:06:50.0876966-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_fa.wav</Source>
+      <Name>Sonidos_silabas\sound_fa</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fa.xnb</Output>
+      <Time>2014-10-25T18:06:50.3155751-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_fan.wav</Source>
+      <Name>Sonidos_silabas\sound_fan</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fan.xnb</Output>
+      <Time>2014-10-25T18:06:50.3305842-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_fo.wav</Source>
+      <Name>Sonidos_silabas\sound_fo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fo.xnb</Output>
+      <Time>2014-10-25T18:06:50.3425922-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ga.wav</Source>
+      <Name>Sonidos_silabas\sound_ga</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ga.xnb</Output>
+      <Time>2014-10-25T18:06:50.3546005-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_gre.wav</Source>
+      <Name>Sonidos_silabas\sound_gre</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_gre.xnb</Output>
+      <Time>2014-10-25T18:06:50.3656078-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ja.wav</Source>
+      <Name>Sonidos_silabas\sound_ja</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ja.xnb</Output>
+      <Time>2014-10-25T18:06:50.3776158-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_je.wav</Source>
+      <Name>Sonidos_silabas\sound_je</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_je.xnb</Output>
+      <Time>2014-10-25T18:06:50.3886226-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ji.wav</Source>
+      <Name>Sonidos_silabas\sound_ji</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ji.xnb</Output>
+      <Time>2014-10-25T18:06:50.400631-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_jo.wav</Source>
+      <Name>Sonidos_silabas\sound_jo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_jo.xnb</Output>
+      <Time>2014-10-25T18:06:50.4116378-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_la.wav</Source>
+      <Name>Sonidos_silabas\sound_la</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_la.xnb</Output>
+      <Time>2014-10-25T18:06:50.4246469-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_le.wav</Source>
+      <Name>Sonidos_silabas\sound_le</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_le.xnb</Output>
+      <Time>2014-10-25T18:06:50.4366544-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_lla.wav</Source>
+      <Name>Sonidos_silabas\sound_lla</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lla.xnb</Output>
+      <Time>2014-10-25T18:06:50.449663-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_lle.wav</Source>
+      <Name>Sonidos_silabas\sound_lle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lle.xnb</Output>
+      <Time>2014-10-25T18:06:50.4616709-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_llo.wav</Source>
+      <Name>Sonidos_silabas\sound_llo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_llo.xnb</Output>
+      <Time>2014-10-25T18:06:50.4736793-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_lo.wav</Source>
+      <Name>Sonidos_silabas\sound_lo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lo.xnb</Output>
+      <Time>2014-10-25T18:06:50.4846862-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_loj.wav</Source>
+      <Name>Sonidos_silabas\sound_loj</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_loj.xnb</Output>
+      <Time>2014-10-25T18:06:50.4986958-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ma.wav</Source>
+      <Name>Sonidos_silabas\sound_ma</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ma.xnb</Output>
+      <Time>2014-10-25T18:06:50.5117348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_me.wav</Source>
+      <Name>Sonidos_silabas\sound_me</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_me.xnb</Output>
+      <Time>2014-10-25T18:06:50.5227417-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_mo.wav</Source>
+      <Name>Sonidos_silabas\sound_mo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_mo.xnb</Output>
+      <Time>2014-10-25T18:06:50.5347492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_na.wav</Source>
+      <Name>Sonidos_silabas\sound_na</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_na.xnb</Output>
+      <Time>2014-10-25T18:06:50.5467571-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ne.wav</Source>
+      <Name>Sonidos_silabas\sound_ne</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ne.xnb</Output>
+      <Time>2014-10-25T18:06:50.5577648-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_no.wav</Source>
+      <Name>Sonidos_silabas\sound_no</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_no.xnb</Output>
+      <Time>2014-10-25T18:06:50.5697736-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_on.wav</Source>
+      <Name>Sonidos_silabas\sound_on</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_on.xnb</Output>
+      <Time>2014-10-25T18:06:50.5827818-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_pa.wav</Source>
+      <Name>Sonidos_silabas\sound_pa</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pa.xnb</Output>
+      <Time>2014-10-25T18:06:50.5947893-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_pe.wav</Source>
+      <Name>Sonidos_silabas\sound_pe</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pe.xnb</Output>
+      <Time>2014-10-25T18:06:50.6067973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_pi.wav</Source>
+      <Name>Sonidos_silabas\sound_pi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pi.xnb</Output>
+      <Time>2014-10-25T18:06:50.6188048-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_piz.wav</Source>
+      <Name>Sonidos_silabas\sound_piz</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_piz.xnb</Output>
+      <Time>2014-10-25T18:06:50.6298129-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ra.wav</Source>
+      <Name>Sonidos_silabas\sound_ra</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ra.xnb</Output>
+      <Time>2014-10-25T18:06:50.6438218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_re.wav</Source>
+      <Name>Sonidos_silabas\sound_re</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_re.xnb</Output>
+      <Time>2014-10-25T18:06:50.6558293-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ro.wav</Source>
+      <Name>Sonidos_silabas\sound_ro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ro.xnb</Output>
+      <Time>2014-10-25T18:06:50.6668374-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_rra.wav</Source>
+      <Name>Sonidos_silabas\sound_rra</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rra.xnb</Output>
+      <Time>2014-10-25T18:06:50.6788518-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_rro.wav</Source>
+      <Name>Sonidos_silabas\sound_rro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rro.xnb</Output>
+      <Time>2014-10-25T18:06:50.6908529-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_rroz.wav</Source>
+      <Name>Sonidos_silabas\sound_rroz</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rroz.xnb</Output>
+      <Time>2014-10-25T18:06:50.7038615-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_sa.wav</Source>
+      <Name>Sonidos_silabas\sound_sa</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_sa.xnb</Output>
+      <Time>2014-10-25T18:06:50.7541465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_san.wav</Source>
+      <Name>Sonidos_silabas\sound_san</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_san.xnb</Output>
+      <Time>2014-10-25T18:06:50.7661557-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_si.wav</Source>
+      <Name>Sonidos_silabas\sound_si</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_si.xnb</Output>
+      <Time>2014-10-25T18:06:50.7781636-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_so.wav</Source>
+      <Name>Sonidos_silabas\sound_so</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_so.xnb</Output>
+      <Time>2014-10-25T18:06:50.7921716-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ta.wav</Source>
+      <Name>Sonidos_silabas\sound_ta</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ta.xnb</Output>
+      <Time>2014-10-25T18:06:50.8041796-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_te.wav</Source>
+      <Name>Sonidos_silabas\sound_te</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_te.xnb</Output>
+      <Time>2014-10-25T18:06:50.8161875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ti.wav</Source>
+      <Name>Sonidos_silabas\sound_ti</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ti.xnb</Output>
+      <Time>2014-10-25T18:06:50.8281954-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_to.wav</Source>
+      <Name>Sonidos_silabas\sound_to</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_to.xnb</Output>
+      <Time>2014-10-25T18:06:50.8402034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_tor.wav</Source>
+      <Name>Sonidos_silabas\sound_tor</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_tor.xnb</Output>
+      <Time>2014-10-25T18:06:50.8542127-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_va.wav</Source>
+      <Name>Sonidos_silabas\sound_va</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_va.xnb</Output>
+      <Time>2014-10-25T18:06:50.8662197-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sonidos_silabas\sound_ña.wav</Source>
+      <Name>Sonidos_silabas\sound_ña</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ña.xnb</Output>
+      <Time>2014-10-25T18:06:50.0766902-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3E070DD4-20B4-4A14-9F24-35DE5F8124EC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabraContent\</RootDirectory>
+      <LoggerRootDirectory>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-27T17:32:12.9461882-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

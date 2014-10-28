@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmaPalabra", "ArmaPalabra\ArmaPalabra\ArmaPalabra.csproj", "{23500587-DED0-4006-AB22-05707A5E741C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmaPalabraContent", "ArmaPalabra\ArmaPalabraContent\ArmaPalabraContent.contentproj", "{3E070DD4-20B4-4A14-9F24-35DE5F8124EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPGames.KinectToolbox", "ArmaPalabra\LPGames.KinectToolbox\LPGames.KinectToolbox.csproj", "{0293B45C-C658-4396-AC1D-BBA22A62D9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23500587-DED0-4006-AB22-05707A5E741C}.Debug|x86.ActiveCfg = Debug|x86
+		{23500587-DED0-4006-AB22-05707A5E741C}.Debug|x86.Build.0 = Debug|x86
+		{23500587-DED0-4006-AB22-05707A5E741C}.Release|x86.ActiveCfg = Release|x86
+		{23500587-DED0-4006-AB22-05707A5E741C}.Release|x86.Build.0 = Release|x86
+		{3E070DD4-20B4-4A14-9F24-35DE5F8124EC}.Debug|x86.ActiveCfg = Debug|x86
+		{3E070DD4-20B4-4A14-9F24-35DE5F8124EC}.Release|x86.ActiveCfg = Release|x86
+		{0293B45C-C658-4396-AC1D-BBA22A62D9DE}.Debug|x86.ActiveCfg = Debug|x86
+		{0293B45C-C658-4396-AC1D-BBA22A62D9DE}.Debug|x86.Build.0 = Debug|x86
+		{0293B45C-C658-4396-AC1D-BBA22A62D9DE}.Release|x86.ActiveCfg = Release|x86
+		{0293B45C-C658-4396-AC1D-BBA22A62D9DE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

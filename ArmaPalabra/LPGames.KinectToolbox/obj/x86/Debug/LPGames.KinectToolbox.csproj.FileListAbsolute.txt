@@ -1,0 +1,53 @@
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_final\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_final\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache

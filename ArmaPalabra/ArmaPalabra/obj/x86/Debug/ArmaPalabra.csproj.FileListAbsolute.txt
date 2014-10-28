@@ -1,0 +1,1772 @@
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_hipopótamo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_rinoceronte.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_zebra.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_zebra.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (2)\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_hipopótamo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_rinoceronte.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_zebra.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_zebra.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc - Copy (3) - Copy\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\LearningProjects\Visual Studio\Kinect\Phase2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+D:\TDP1\lipc_final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb
+D:\TDP1\lipc_Level2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Level2sinTxt\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_arroz.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_cereal.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_empanada.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_galleta.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_jamonada.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_lechuga.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_pera.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_piña.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_sandia.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_torta.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_borrador.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_cuchara.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_lapiz.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mesa.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mochila.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_pelota.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_reloj.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_silla.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_telefono.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_tijera.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_v.xnb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_caja.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ni.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_arroz.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_cereal.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_empanada.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_galleta.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_jamonada.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_lechuga.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_pera.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_piña.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_sandia.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_torta.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_borrador.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_cuchara.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_lapiz.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mesa.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mochila.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_pelota.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_reloj.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_silla.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_telefono.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_tijera.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_caja.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_v.xnb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+C:\Users\Oscar\Documents\lipc_Union\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_arroz.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_cereal.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_empanada.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_galleta.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_jamonada.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_lechuga.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_pera.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_piña.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_sandia.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_torta.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_borrador.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_cuchara.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_lapiz.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mesa.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mochila.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_pelota.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_reloj.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_silla.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_telefono.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_tijera.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_caja.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_v.xnb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ñ.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ñ.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_arroz.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_cereal.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_empanada.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_galleta.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_jamonada.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_lechuga.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_pera.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_piña.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_sandia.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_torta.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_borrador.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_cuchara.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_lapiz.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mesa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mochila.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_pelota.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_reloj.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_silla.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_telefono.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_tijera.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_caja.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_v.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.dll
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Microsoft.Kinect.dll
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.csprojResolveAssemblyReference.cache
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_a.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_al.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ba.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_bo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_bra.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ca.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ce.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cer.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cha.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_chi.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_chu.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_co.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cu.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_da.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_dia.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_do.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_dor.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_e.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_em.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fan.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ga.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_gre.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ja.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_je.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ji.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_jo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_la.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_le.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lla.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lle.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_llo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_loj.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ma.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_me.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_mo.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_na.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ne.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_no.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_on.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pe.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pi.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_piz.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ra.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_re.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ro.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rra.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rro.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rroz.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_sa.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_san.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_si.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_so.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ta.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_te.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ti.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_to.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_tor.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_va.xnb
+D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ña.xnb
