@@ -253,18 +253,18 @@ namespace ArmaPalabra.Gameplay
 
                 string s = VariablesGlobales.palabraActual;
                 string[] a = s.Select(c => c.ToString()).ToArray();
-               float width = this.Game.GraphicsDevice.Viewport.Width;
-               int longitudAnimal = a.Count();
-               int espacio = 0;            
-             double i = ((width - (longitudAnimal * ObjetoCapturable.MIN_LADO_DEFAULT + espacio)) / 2.0) - 
-                 (ObjetoCapturable.MIN_LADO_DEFAULT /2 );
-                   
+                float width = this.Game.GraphicsDevice.Viewport.Width;
+                int longitudAnimal = a.Count();
+                int espacio = 0;
+                double i = ((width - (longitudAnimal * ObjetoCapturable.MIN_LADO_DEFAULT + espacio)) / 2.0) -
+                    (ObjetoCapturable.MIN_LADO_DEFAULT / 2);
+
                 List<int> posiciones = new List<int>();
 
-                foreach(string letra in a)
+                foreach (string letra in a)
                 {
-                    posiciones.Add( (int)i - 30) ;
-                    i = (int)i + ((int)width / 12) + espacio;                
+                    posiciones.Add((int)i - 30);
+                    i = (int)i + ((int)width / 12) + espacio;
                 }
 
                 int indicepos = posiciones.IndexOf(this.PosX);
@@ -276,7 +276,7 @@ namespace ArmaPalabra.Gameplay
                 ArrayList listaPosiciones = new ArrayList();
                 String palabras = VariablesGlobales.palabraActual;
                 listaPosiciones = nuevoSeparador.PosicionSilabas(palabras);
-  
+
                 List<string> listaSilabas = new List<string>();
                 int nele = palabras.Length;
 
@@ -313,18 +313,20 @@ namespace ArmaPalabra.Gameplay
                 double indicesilaba = (double)(listaSilabas.Count() * indiceposrelativo);
                 double indicesilabaaux = indicesilaba;
                 indicesilabaaux++;
-                if(indicesilabaaux != 0)
+                if (indicesilabaaux != 0)
                     indicesilabaaux--;
 
 
-                if(VariablesGlobales.nivel == 1)
+                // if(VariablesGlobales.nivel == 1)
                 indicesilabaaux = indicesilabaaux - 0.5;
-               
+
                 string silabaactual = listaSilabas.ElementAt((int)indicesilabaaux);
-               VariablesGlobales.silabaActual = silabaactual;
+                VariablesGlobales.silabaActual = silabaactual;
                 return true;
             }
             return false;
+          
+
 
         }
         public bool Activo

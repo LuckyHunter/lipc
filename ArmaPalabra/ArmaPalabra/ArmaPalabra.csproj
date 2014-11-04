@@ -116,10 +116,10 @@
     <Compile Include="GamePlay\Letrero.cs" />
     <Compile Include="GamePlay\Mensaje.cs" />
     <Compile Include="GamePlay\Nivel\EscenarioB.cs" />
+    <Compile Include="GamePlay\SeparadorDeSilabas.cs" />
     <Compile Include="GamePlay\ObjetoCapturable.cs" />
     <Compile Include="GamePlay\ObjetosCapturables.cs" />
     <Compile Include="GamePlay\ObjetoSimple.cs" />
-    <Compile Include="GamePlay\SeparadorDeSilabas.cs" />
     <Compile Include="GamePlay\SesionPartida.cs" />
     <Compile Include="GamePlay\VisualizadorGuia.cs" />
     <Compile Include="MainScreen.cs" />

@@ -65,189 +65,194 @@ namespace ArmaPalabra.Gameplay
             return lstObjetos.FindAll(x => !x.pregunta);
         }
 
-        //Hola Oscar
+
 
         public void LoadResources()
         {
-            Random r = new Random();   
-           switch(VariablesGlobales.tipoObjeto )
-           {
-               case 1:
+            Random r = new Random();
+            switch (VariablesGlobales.tipoObjeto)
+            {
+                case 1:
 
-                  Animales = new List<string>();
+                    Animales = new List<string>();
 
-                  Animales.Add("leon");
-                 Animales.Add("conejo");
+                    Animales.Add("leon");
 
-                  Animales.Add("gato");
 
-                   Animales.Add("perro");
-            Animales.Add("cebra");
+                     Animales.Add("gato");
 
-          
-            Animales.Add("jirafa");
-          
+                    //       Animales.Add("perro");
+                    //Animales.Add("cebra");
+                    //Animales.Add("conejo");
 
-            Animales.Add("caballo");
-            //Animales.Add("camello");
+                    //        Animales.Add("jirafa");
 
-           Animales.Add("elefante");
-          //  Animales.Add("abeja");
 
-            //Animales.Add("cerdo");
-            //Animales.Add("foca");
-            //Animales.Add("lobo");
-                   
-            //Animales.Add("tigre");
-            //Animales.Add("vaca");
+                    //          Animales.Add("caballo");
+                    //Animales.Add("camello");
 
-          //  Animales.Add("gallina");
-          //  Animales.Add("pato");
+                    //  Animales.Add("elefante");
+                    //  Animales.Add("abeja");
 
+                    //Animales.Add("cerdo");
+                    //Animales.Add("foca");
+                    //Animales.Add("lobo");
+
+                    //Animales.Add("tigre");
+                    //Animales.Add("vaca");
+
+                    //  Animales.Add("gallina");
+                    //  Animales.Add("pato");
+
+
+                    //  Animales.Add("loro");
+
+                    //  Animales.Add("oso");
+                    //  Animales.Add("jaguar");
+
+
+
+                    //------Desordenar
+                    //Random r = new Random();           
+                    for (int i = Animales.Count - 1; i > 0; i--)
+                    {
+                        int rand = r.Next((i + 1));
+                        String temp = Animales[i];
+                        Animales[i] = Animales[rand];
+                        Animales[rand] = temp;
+                    }
+                    //-----------------------------------
+
+                    Letras = new List<string>();
+                    niveles = new List<int>();
+                    for (int i = 0; i < Animales.Count; i++)
+                    {
+                        string s = Animales[i];
+                        string[] a = s.Select(c => c.ToString()).ToArray();
+                        niveles.Add(a.Count());
+
+                        for (int j = 0; j < a.Count(); j++)
+                        {
+                            Letras.Add(a[j]);
+                        }
+                    }
+
+                    break;
+
+                case 2:
+
+
+                    Animales = new List<string>();
+
+                    Animales.Add("arroz");
+                    Animales.Add("piña");
+
+                    Animales.Add("pera");
+                    Animales.Add("torta");
+
+                    Animales.Add("jamonada");
+                    Animales.Add("lechuga");
+
+                    Animales.Add("empanada");
+                    Animales.Add("cereal");
+
+                    //Animales.Add("sandia");
+                    Animales.Add("galleta");
+
+
+
+
+                    //------Desordenar
+
+                    for (int i = Animales.Count - 1; i > 0; i--)
+                    {
+                        int rand = r.Next((i + 1));
+                        String temp = Animales[i];
+                        Animales[i] = Animales[rand];
+                        Animales[rand] = temp;
+                    }
+                    //-----------------------------------
+
+                    Letras = new List<string>();
+                    niveles = new List<int>();
+                    for (int i = 0; i < Animales.Count; i++)
+                    {
+                        string s = Animales[i];
+                        string[] a = s.Select(c => c.ToString()).ToArray();
+                        niveles.Add(a.Count());
+
+                        for (int j = 0; j < a.Count(); j++)
+                        {
+                            Letras.Add(a[j]);
+
+                        }
+                    }
+
+
+
+
+                    break;
+                case 3:
+
+
+                    Animales = new List<string>();
+
+                    Animales.Add("mesa");
+                    Animales.Add("caja");
+
+                    Animales.Add("silla");
+                    Animales.Add("lapiz");
+
+                    Animales.Add("borrador");
+                    Animales.Add("mochila");
+
+                    Animales.Add("pelota");
+                    Animales.Add("reloj");
+
+                    Animales.Add("cuchara");
+                    Animales.Add("telefono");
+
+                    Animales.Add("tijera");
+
+
+                    //------Desordenar
+                    // Random r = new Random();           
+                    for (int i = Animales.Count - 1; i > 0; i--)
+                    {
+                        int rand = r.Next((i + 1));
+                        String temp = Animales[i];
+                        Animales[i] = Animales[rand];
+                        Animales[rand] = temp;
+                    }
+                    //-----------------------------------
+
+                    Letras = new List<string>();
+                    niveles = new List<int>();
+                    for (int i = 0; i < Animales.Count; i++)
+                    {
+                        string s = Animales[i];
+                        string[] a = s.Select(c => c.ToString()).ToArray();
+                        niveles.Add(a.Count());
+
+                        for (int j = 0; j < a.Count(); j++)
+                        {
+                            Letras.Add(a[j]);
+
+                        }
+                    }
+
+
+                    break;
+
+
+
+            }
+
+
+            
+            
+      
            
-          //  Animales.Add("loro");
-
-          //  Animales.Add("oso");
-          //  Animales.Add("jaguar");
-
-
-
-            //------Desordenar
-            //Random r = new Random();           
-            for (int i = Animales.Count - 1; i > 0; i--)
-            {
-                int rand = r.Next((i + 1));
-                String temp = Animales[i];
-                Animales[i] = Animales[rand];
-                Animales[rand] = temp;
-            }
-            //-----------------------------------
-
-            Letras = new List<string>();
-            niveles = new List<int>();    
-            for (int i = 0; i < Animales.Count; i++)
-            {
-                string s = Animales[i];
-                string[] a = s.Select(c => c.ToString()).ToArray();
-                niveles.Add(a.Count());
-
-                for (int j = 0; j < a.Count(); j++)
-                {
-                    Letras.Add(a[j]);
-                    
-                }
-            }
-          
-                   break;
-
-               case 2:
-
-                   
-                 Animales = new List<string>();
-
-                 Animales.Add("arroz");
-                 Animales.Add("piña");
-
-                 Animales.Add("pera");
-                 Animales.Add("torta");
-
-                          Animales.Add("jamonada");
-                            Animales.Add("lechuga");
-
-                            Animales.Add("empanada");
-                 Animales.Add("cereal");
-
-                 //Animales.Add("sandia");
-                 Animales.Add("galleta");
-
-                     
-                      
-
-            //------Desordenar
-                  
-            for (int i = Animales.Count - 1; i > 0; i--)
-            {
-                int rand = r.Next((i + 1));
-                String temp = Animales[i];
-                Animales[i] = Animales[rand];
-                Animales[rand] = temp;
-            }
-            //-----------------------------------
-
-            Letras = new List<string>();
-            niveles = new List<int>();    
-            for (int i = 0; i < Animales.Count; i++)
-            {
-                string s = Animales[i];
-                string[] a = s.Select(c => c.ToString()).ToArray();
-                niveles.Add(a.Count());
-
-                for (int j = 0; j < a.Count(); j++)
-                {
-                    Letras.Add(a[j]);
-                    
-                }
-            }
-
-
-
-
-                   break;
-               case 3:
-
-                   
-                 Animales = new List<string>();
-    
-            Animales.Add("mesa");
-            Animales.Add("caja");
-
-            Animales.Add("silla");
-            Animales.Add("lapiz");
-
-            Animales.Add("borrador");
-            Animales.Add("mochila");
-
-            Animales.Add("pelota");
-            Animales.Add("reloj");
-
-            Animales.Add("cuchara");
-            Animales.Add("telefono");
-
-            Animales.Add("tijera");
-           
-
-            //------Desordenar
-           // Random r = new Random();           
-            for (int i = Animales.Count - 1; i > 0; i--)
-            {
-                int rand = r.Next((i + 1));
-                String temp = Animales[i];
-                Animales[i] = Animales[rand];
-                Animales[rand] = temp;
-            }
-            //-----------------------------------
-
-            Letras = new List<string>();
-            niveles = new List<int>();    
-            for (int i = 0; i < Animales.Count; i++)
-            {
-                string s = Animales[i];
-                string[] a = s.Select(c => c.ToString()).ToArray();
-                niveles.Add(a.Count());
-
-                for (int j = 0; j < a.Count(); j++)
-                {
-                    Letras.Add(a[j]);
-                    
-                }
-            }
-
-
-                   break;
-           
-           
-           
-           }
             /*
           
     */  /*      Animales.Add("perro");
@@ -261,6 +266,8 @@ namespace ArmaPalabra.Gameplay
 
             Animales.Add("elefante");
             */
+
+
 
          /*   Letras.Add("e");
             Letras.Add("r");
@@ -455,7 +462,7 @@ namespace ArmaPalabra.Gameplay
             LoadWord(); //Solo para la primera palabra
             LoadAnswer();
             LoadAnimal();
-            VariablesGlobales.palabraActual = Animales[0];           
+            VariablesGlobales.palabraActual = Animales[nivel];
         }
 
         public bool ubicateQuestion()
@@ -497,10 +504,11 @@ namespace ArmaPalabra.Gameplay
                 foreach (ObjetoCapturable oc in lstObjetos)
                 {
 
+
                     if (!oc.pregunta)
                     {
                         oc.PosX = (int)i - 30;
-                        oc.PosY = 435;
+                        oc.PosY = 475;
                         i = (int)i + ((int)width / 12) + espacio;
                     }
 
@@ -559,34 +567,30 @@ namespace ArmaPalabra.Gameplay
             {
                 for (int i = initNivel; i < finNivel; i++)
                 {
-
-                    switch(VariablesGlobales.nivel)
-
+                    switch (VariablesGlobales.nivel)
                     {
-
                         case 1:
-
                             if (Letras[i] == "a" || Letras[i] == "e" || Letras[i] == "i" || Letras[i] == "o" || Letras[i] == "u")
                                 //AddQuestion(Letras[i]);
                                 letrasAuxiliar.Add(Letras[i]);
-                    break;
+                            break;
 
-                     case 2:
-                     
-                    if (Letras[i] != "a" && Letras[i] != "e" && Letras[i] != "i" && Letras[i] != "o" && Letras[i] != "u")
-                       // AddQuestion(Letras[i]);
-                        letrasAuxiliar.Add(Letras[i]);
+                        case 2:
 
-                    break;
+                            if (Letras[i] != "a" && Letras[i] != "e" && Letras[i] != "i" && Letras[i] != "o" && Letras[i] != "u")
+                                // AddQuestion(Letras[i]);
+                                letrasAuxiliar.Add(Letras[i]);
+
+                            break;
                         case 3:
 
-                    //AddQuestion(Letras[i]);
+                            //AddQuestion(Letras[i]);
 
-                    letrasAuxiliar.Add(Letras[i]);
-                    break;
-                    
+                            letrasAuxiliar.Add(Letras[i]);
+                            break;
+
                     }
-                
+
                 }
 
 
@@ -602,14 +606,14 @@ namespace ArmaPalabra.Gameplay
                     {
                         if (complement != 'a' && complement != 'e' && complement != 'i' && complement != 'o' && complement != 'u')
                         {
-                    
+
 
                             letrasAuxiliar.Add(complement.ToString());
                         }
                         else
                             j--;
 
-         
+
                     }
                     if (VariablesGlobales.nivel == 1)
                     {
@@ -617,19 +621,19 @@ namespace ArmaPalabra.Gameplay
                         {
 
                             letrasAuxiliar.Add(complement.ToString());
-                        
+
                         }
                         else
                             j--;
-                     
+
                     }
                     if (VariablesGlobales.nivel == 3)
                     {
 
                         letrasAuxiliar.Add(complement.ToString());
-                       // AddQuestionComplement(complement.ToString());
+                        // AddQuestionComplement(complement.ToString());
                     }
-                   
+
 
 
                 }
@@ -652,7 +656,8 @@ namespace ArmaPalabra.Gameplay
                 ubicateQuestion();
 
                 return true;
-            }catch(Exception e)
+            }
+            catch (Exception e)
             {
 
                 return false;
@@ -698,7 +703,9 @@ namespace ArmaPalabra.Gameplay
                     break;
 
                     }
-                        
+            
+            
+            
             }
                 ubicateAnswer();
 
@@ -818,8 +825,6 @@ namespace ArmaPalabra.Gameplay
                     LoadWord();
                     LoadAnswer();
                     LoadAnimal();
-
-                  
                 }
                 else if(nivel+1 == niveles.Count) //Validadción para el último nivel
                 {
@@ -827,7 +832,7 @@ namespace ArmaPalabra.Gameplay
                     
                     SesionPartida.Instancia.finPartida = true;
                   
-                    //nivel++;
+                    nivel++;
                 }
 
             }
@@ -930,6 +935,8 @@ namespace ArmaPalabra.Gameplay
                         oc.setDireccion(false);
                 }
             }
+
+
         }
         //------------------------------------------
         public bool levelDone()

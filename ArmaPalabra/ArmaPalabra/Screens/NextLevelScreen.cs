@@ -30,7 +30,10 @@ namespace ArmaPalabra.Screens
         {
             botones = new Button[NUMERO_BOTONES];
             this.Components = new GameComponentCollection();
+
+
         }
+
 
         public override void Initialize()
         {
@@ -50,6 +53,7 @@ namespace ArmaPalabra.Screens
             SharedKinectCursor.CurrentPosition = new Vector2(0, 0);
             SharedKinectCursor.Enabled = true;
             SharedKinectCursor.Visible = true;
+
         }
 
         public void AgregarComponentesVista()

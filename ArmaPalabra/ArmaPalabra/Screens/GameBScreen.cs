@@ -69,6 +69,8 @@ namespace ArmaPalabra.Screens
         SoundEffect sonidoZ;
 
 
+
+        //-----------------Animales
         SoundEffect silabaPE;
         SoundEffect silabaRRO;
         SoundEffect silabaGA;
@@ -103,7 +105,7 @@ namespace ArmaPalabra.Screens
         SoundEffect silabaDO;
 
         SoundEffect silabaFO;
-        
+
         SoundEffect silabaLO;
         SoundEffect silabaBO;
 
@@ -111,15 +113,51 @@ namespace ArmaPalabra.Screens
         SoundEffect silabaTI;
         SoundEffect silabaGRE;
         SoundEffect silabaVA;
-        
-/*            Animales.Add("cerdo");
-            Animales.Add("foca");
-            Animales.Add("lobo");
-                   
-            Animales.Add("tigre");
-            Animales.Add("vaca");*/
+        //------Comidas--------
+
+
+        SoundEffect silabaA;
+        SoundEffect silabaRROZ;
+
+        SoundEffect silabaPI;
+        SoundEffect silabaÑA;
+
+        SoundEffect silabaTOR;
+        SoundEffect silabaTA;
+        SoundEffect silabaJA;
+        SoundEffect silabaMO;
+        SoundEffect silabaNA;
+        SoundEffect silabaDA;
+        SoundEffect silabaCHU;
+        SoundEffect silabaEM;
+        SoundEffect silabaPA;
+        SoundEffect silabaRE;
+        SoundEffect silabaAL;
+        SoundEffect silabaLLE;
+
+        //-----------Objetos----------
+
+        SoundEffect silabaME;
+        SoundEffect silabaSA;
+        SoundEffect silabaSI;
+        SoundEffect silabaLLA;
+        SoundEffect silabaLA;
+        SoundEffect silabaPIZ;
+        SoundEffect silabaRRA;
+        SoundEffect silabaDOR;
+        SoundEffect silabaCHI;
+        SoundEffect silabaLOJ;
+        SoundEffect silabaCU;
+        SoundEffect silabaCHA;
+        SoundEffect silabaNO;
+        SoundEffect silabaJE;
+
+        //-----------------------------
 
         int nivelTermimado;
+
+
+
 
         public GameComponentCollection Components { get; private set; }
 
@@ -221,10 +259,10 @@ namespace ArmaPalabra.Screens
             sonidoZ = this.Game.Content.Load<SoundEffect>("Sonidos_letras/sound_z");
 
 
-
+            //Animales
             silabaPE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_pe");
             silabaRRO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_rro");
-            
+
             silabaGA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ga");
             silabaTO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_to");
 
@@ -255,16 +293,62 @@ namespace ArmaPalabra.Screens
 
 
             silabaCER = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_cer");
-             silabaDO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_do");
+            silabaDO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_do");
 
-             silabaFO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_fo");
+            silabaFO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_fo");
 
             silabaLO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_lo");
-             silabaBO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_bo");
+            silabaBO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_bo");
 
             silabaTI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ti");
             silabaGRE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_gre");
             silabaVA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_va");
+
+
+            //Comidas
+            silabaA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_a");
+            silabaRROZ = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_rroz");
+
+            silabaPI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_pi");
+            silabaÑA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ña");
+
+
+            silabaTOR = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_tor");
+            silabaTA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ta");
+
+
+            silabaJA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ja");
+            silabaMO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_mo");
+            silabaNA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_na");
+            silabaDA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_da");
+
+
+            silabaCHU = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_chu");
+
+
+
+            silabaEM = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_em");
+            silabaPA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_pa");
+
+            silabaRE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_re");
+            silabaAL = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_al");
+
+            silabaLLE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_lle");
+            //Objetos
+            silabaME = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_me");
+            silabaSA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_sa");
+            silabaSI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_si");
+            silabaLLA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_lla");
+            silabaLA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_la");
+            silabaPIZ = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_piz");
+            silabaRRA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_rra");
+            silabaDOR = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_dor");
+            silabaCHI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_chi");
+            silabaLOJ = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_loj");
+            silabaCU = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_cu");
+            silabaCHA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_cha");
+            silabaNO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_no");
+            silabaJE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_je");
 
 
             guardarSound = this.Game.Content.Load<SoundEffect>("sonidos/guardar");
@@ -377,11 +461,14 @@ namespace ArmaPalabra.Screens
                             case "i": sonidoI.Play(); break;
                             case "o": sonidoO.Play(); break;
                             case "u": sonidoU.Play(); break;
+
+
                             case "b": sonidoB.Play(); break;
                             case "c": sonidoC.Play(); break;
                             case "d": sonidoD.Play(); break;
                             case "f": sonidoF.Play(); break;
                             case "g": sonidoG.Play(); break;
+
                             case "j": sonidoJ.Play(); break;
                             case "k": sonidoK.Play(); break;
                             case "l": sonidoL.Play(); break;
@@ -441,76 +528,104 @@ namespace ArmaPalabra.Screens
                                 mensaje.posicion = new Vector2(Game.GraphicsDevice.Viewport.Width / 2, Game.GraphicsDevice.Viewport.Height / 2);
                                 mensaje.IniciarAnimacion();
 
-                                if(VariablesGlobales.nivel == 1 || VariablesGlobales.nivel == 2 )
-                                switch (VariablesGlobales.silabaActual)
-                                {
-
-                                //Animales
-                                    case "pe": silabaPE.Play(); break;
-                                    case "rro": silabaRRO.Play(); break;
-                                    case "ga": silabaGA.Play(); break;
-                                    case "to": silabaTO.Play();  break;
-                                    case "co": silabaCO.Play(); break;
-                                    case "ne": silabaNE.Play(); break;
-                                    case "jo": silabaJO.Play(); break;
-                                    case "le": silabaLE.Play(); break;
-                                    case "on": silabaON.Play(); break;
-                                    case "e": silabaE.Play(); break;
-                                    case "ce": silabaCE.Play(); break;
-                                    case "bra": silabaBRA.Play(); break;
-                                    case "ji": silabaJI.Play(); break;
-                                    case "ra": silabaRA.Play(); break;
-                                    case "fa": silabaFA.Play(); break;
-                                    case "ca": silabaCA.Play(); break;
-                                    case "ba": silabaBA.Play(); break;
-                                    case "llo": silabaLLO.Play(); break;
-                                    case "fan": silabaFAN.Play(); break;
-                                    case "te": silabaTE.Play(); break;
-                                    case "cer": silabaCER.Play(); break;
-                                    case "do": silabaDO.Play(); break;
-                                    case "fo": silabaFO.Play(); break;
-                                    case "lo": silabaLO.Play(); break;
-                                    case "bo": silabaBO.Play(); break;
-                                    case "ti": silabaTI.Play(); break;
-                                    case "gre": silabaGRE.Play(); break;
-                                    case "va": silabaVA.Play(); break;
-                
-
-                               
 
 
-                                }                      
+                                if (VariablesGlobales.nivel == 1 || VariablesGlobales.nivel == 2)
+                                    switch (VariablesGlobales.silabaActual)
+                                    {
+                                        //Animales
+                                        case "pe": silabaPE.Play(); break;
+                                        case "rro": silabaRRO.Play(); break;
+                                        case "ga": silabaGA.Play(); break;
+                                        case "to": silabaTO.Play(); break;
+                                        case "co": silabaCO.Play(); break;
+                                        case "ne": silabaNE.Play(); break;
+                                        case "jo": silabaJO.Play(); break;
+                                        case "le": silabaLE.Play(); break;
+                                        case "on": silabaON.Play(); break;
+                                        case "e": silabaE.Play(); break;
+                                        case "ce": silabaCE.Play(); break;
+                                        case "bra": silabaBRA.Play(); break;
+                                        case "ji": silabaJI.Play(); break;
+                                        case "ra": silabaRA.Play(); break;
+                                        case "fa": silabaFA.Play(); break;
+                                        case "ca": silabaCA.Play(); break;
+                                        case "ba": silabaBA.Play(); break;
+                                        case "llo": silabaLLO.Play(); break;
+                                        case "fan": silabaFAN.Play(); break;
+                                        case "te": silabaTE.Play(); break;
+                                        case "cer": silabaCER.Play(); break;
+                                        case "do": silabaDO.Play(); break;
+                                        case "fo": silabaFO.Play(); break;
+                                        case "lo": silabaLO.Play(); break;
+                                        case "bo": silabaBO.Play(); break;
+                                        case "ti": silabaTI.Play(); break;
+                                        case "gre": silabaGRE.Play(); break;
+                                        case "va": silabaVA.Play(); break;
+                                        //Comidas
+                                        case "a": silabaA.Play(); break;
+                                        case "rroz": silabaRROZ.Play(); break;
+                                        case "pi": silabaPI.Play(); break;
+                                        case "ña": silabaÑA.Play(); break;
+                                        case "tor": silabaTOR.Play(); break;
+                                        case "ta": silabaTA.Play(); break;
+                                        case "ja": silabaJA.Play(); break;
+                                        case "mo": silabaMO.Play(); break;
+                                        case "na": silabaNA.Play(); break;
+                                        case "da": silabaDA.Play(); break;
+                                        case "chu": silabaCHU.Play(); break;
+                                        case "em": silabaEM.Play(); break;
+                                        case "pa": silabaPA.Play(); break;
+                                        case "re": silabaRE.Play(); break;
+                                        case "al": silabaAL.Play(); break;
+                                        case "lle": silabaLLE.Play(); break;
+                                        //Objetos
+                                        case "me": silabaME.Play(); break;
+                                        case "sa": silabaSA.Play(); break;
+                                        case "lla": silabaLLA.Play(); break;
+                                        case "la": silabaLA.Play(); break;
+                                        case "piz": silabaPIZ.Play(); break;
+                                        case "rra": silabaRRA.Play(); break;
+                                        case "dor": silabaDOR.Play(); break;
+                                        case "chi": silabaCHI.Play(); break;
+                                        case "loj": silabaLOJ.Play(); break;
+                                        case "cu": silabaCU.Play(); break;
+                                        case "cha": silabaCHA.Play(); break;
+                                        case "no": silabaNO.Play(); break;
+                                        case "je": silabaJE.Play(); break;
+                                        case "si": silabaSI.Play(); break;
+
+                                    }
                                 else
-                                switch (g.respuesta)
-                                {
-                                    case "a": sonidoA.Play(); break;
-                                    case "e": sonidoE.Play(); break;
-                                    case "i": sonidoI.Play(); break;
-                                    case "o": sonidoO.Play(); break;
-                                    case "u": sonidoU.Play(); break;
-                                    case "b": sonidoB.Play(); break;
-                                    case "c": sonidoC.Play(); break;
-                                    case "d": sonidoD.Play(); break;
-                                    case "f": sonidoF.Play(); break;
-                                    case "g": sonidoG.Play(); break;
-                                    case "j": sonidoJ.Play(); break;
-                                    case "k": sonidoK.Play(); break;
-                                    case "l": sonidoL.Play(); break;
-                                    case "m": sonidoM.Play(); break;
-                                    case "n": sonidoN.Play(); break;
-                                    case "ñ": sonidoÑ.Play(); break;
-                                    case "p": sonidoP.Play(); break;
-                                    case "q": sonidoQ.Play(); break;
-                                    case "r": sonidoR.Play(); break;
-                                    case "s": sonidoS.Play(); break;
-                                    case "t": sonidoT.Play(); break;
-                                    case "v": sonidoV.Play(); break;
-                                    case "w": sonidoW.Play(); break;
-                                    case "x": sonidoX.Play(); break;
-                                    case "y": sonidoY.Play(); break;
-                                    case "z": sonidoZ.Play(); break;
-                                }    
-                         
+                                    switch (g.respuesta)
+                                    {
+                                        case "a": sonidoA.Play(); break;
+                                        case "e": sonidoE.Play(); break;
+                                        case "i": sonidoI.Play(); break;
+                                        case "o": sonidoO.Play(); break;
+                                        case "u": sonidoU.Play(); break;
+                                        case "b": sonidoB.Play(); break;
+                                        case "c": sonidoC.Play(); break;
+                                        case "d": sonidoD.Play(); break;
+                                        case "f": sonidoF.Play(); break;
+                                        case "g": sonidoG.Play(); break;
+                                        case "j": sonidoJ.Play(); break;
+                                        case "k": sonidoK.Play(); break;
+                                        case "l": sonidoL.Play(); break;
+                                        case "m": sonidoM.Play(); break;
+                                        case "n": sonidoN.Play(); break;
+                                        case "ñ": sonidoÑ.Play(); break;
+                                        case "p": sonidoP.Play(); break;
+                                        case "q": sonidoQ.Play(); break;
+                                        case "r": sonidoR.Play(); break;
+                                        case "s": sonidoS.Play(); break;
+                                        case "t": sonidoT.Play(); break;
+                                        case "v": sonidoV.Play(); break;
+                                        case "w": sonidoW.Play(); break;
+                                        case "x": sonidoX.Play(); break;
+                                        case "y": sonidoY.Play(); break;
+                                        case "z": sonidoZ.Play(); break;
+                                    }                              
                                 // exitoSound.Play();
                                 //PartidaDetalleDALC.Instancia.GuardarPartidaDetalle(new BE.PartidaDetalleBE(SesionPartida.Instancia.codigoPartida, ACCION_AGRUPAR_OBJETO, true));
                                 return true;
