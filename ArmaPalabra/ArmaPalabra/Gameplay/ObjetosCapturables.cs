@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Audio;
 
 
 
@@ -42,11 +43,99 @@ namespace ArmaPalabra.Gameplay
         private int contadorSegundo = 0;
 
 
+
+
+
         int initNivel = 0;
         int finNivel = 0;
         int nivel = 0;
         bool nivelTreminado = false;
         bool findeJuego = false;
+
+
+
+        //-----------------Animales
+        SoundEffect silabaPE;
+        SoundEffect silabaRRO;
+        SoundEffect silabaGA;
+        SoundEffect silabaTO;
+
+        SoundEffect silabaCO;
+        SoundEffect silabaNE;
+        SoundEffect silabaJO;
+
+        SoundEffect silabaLE;
+        SoundEffect silabaON;
+
+        SoundEffect silabaCE;
+        SoundEffect silabaBRA;
+
+        SoundEffect silabaJI;
+        SoundEffect silabaRA;
+        SoundEffect silabaFA;
+
+
+        SoundEffect silabaCA;
+        SoundEffect silabaBA;
+        SoundEffect silabaLLO;
+
+
+        SoundEffect silabaE;
+        SoundEffect silabaFAN;
+        SoundEffect silabaTE;
+
+
+        SoundEffect silabaCER;
+        SoundEffect silabaDO;
+
+        SoundEffect silabaFO;
+
+        SoundEffect silabaLO;
+        SoundEffect silabaBO;
+
+
+        SoundEffect silabaTI;
+        SoundEffect silabaGRE;
+        SoundEffect silabaVA;
+        //------Comidas--------
+
+
+        SoundEffect silabaA;
+        SoundEffect silabaRROZ;
+
+        SoundEffect silabaPI;
+        SoundEffect silabaÑA;
+
+        SoundEffect silabaTOR;
+        SoundEffect silabaTA;
+        SoundEffect silabaJA;
+        SoundEffect silabaMO;
+        SoundEffect silabaNA;
+        SoundEffect silabaDA;
+        SoundEffect silabaCHU;
+        SoundEffect silabaEM;
+        SoundEffect silabaPA;
+        SoundEffect silabaRE;
+        SoundEffect silabaAL;
+        SoundEffect silabaLLE;
+
+        //-----------Objetos----------
+
+        SoundEffect silabaME;
+        SoundEffect silabaSA;
+        SoundEffect silabaSI;
+        SoundEffect silabaLLA;
+        SoundEffect silabaLA;
+        SoundEffect silabaPIZ;
+        SoundEffect silabaRRA;
+        SoundEffect silabaDOR;
+        SoundEffect silabaCHI;
+        SoundEffect silabaLOJ;
+        SoundEffect silabaCU;
+        SoundEffect silabaCHA;
+        SoundEffect silabaNO;
+        SoundEffect silabaJE;
+
 
         public ObjetosCapturables(Game game)
             : base(game)
@@ -69,6 +158,103 @@ namespace ArmaPalabra.Gameplay
 
         public void LoadResources()
         {
+
+
+            //Animales
+            silabaPE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_pe");
+            silabaRRO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_rro");
+
+            silabaGA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ga");
+            silabaTO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_to");
+
+            silabaCO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_co");
+            silabaNE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ne");
+            silabaJO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_jo");
+
+
+            silabaLE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_le");
+            silabaON = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_on");
+
+            silabaCE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ce");
+            silabaBRA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_bra");
+
+
+            silabaJI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ji");
+            silabaRA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ra");
+            silabaFA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_fa");
+
+            silabaCA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ca");
+            silabaBA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ba");
+            silabaLLO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_llo");
+
+            silabaE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_e");
+            silabaFAN = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_fan");
+            silabaTE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_te");
+
+
+
+            silabaCER = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_cer");
+            silabaDO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_do");
+
+            silabaFO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_fo");
+
+            silabaLO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_lo");
+            silabaBO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_bo");
+
+            silabaTI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ti");
+            silabaGRE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_gre");
+            silabaVA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_va");
+
+
+            //Comidas
+            silabaA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_a");
+            silabaRROZ = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_rroz");
+
+            silabaPI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_pi");
+            silabaÑA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ña");
+
+
+            silabaTOR = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_tor");
+            silabaTA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ta");
+
+
+            silabaJA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_ja");
+            silabaMO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_mo");
+            silabaNA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_na");
+            silabaDA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_da");
+
+
+            silabaCHU = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_chu");
+
+
+
+            silabaEM = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_em");
+            silabaPA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_pa");
+
+            silabaRE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_re");
+            silabaAL = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_al");
+
+            silabaLLE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_lle");
+            //Objetos
+            silabaME = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_me");
+            silabaSA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_sa");
+            silabaSI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_si");
+            silabaLLA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_lla");
+            silabaLA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_la");
+            silabaPIZ = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_piz");
+            silabaRRA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_rra");
+            silabaDOR = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_dor");
+            silabaCHI = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_chi");
+            silabaLOJ = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_loj");
+            silabaCU = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_cu");
+            silabaCHA = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_cha");
+            silabaNO = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_no");
+            silabaJE = this.Game.Content.Load<SoundEffect>("Sonidos_silabas/sound_je");
+
+
+
+
+
             Random r = new Random();
             switch (VariablesGlobales.tipoObjeto)
             {
@@ -79,9 +265,10 @@ namespace ArmaPalabra.Gameplay
                     Animales.Add("leon");
 
 
-                     Animales.Add("gato");
+                   
+                    Animales.Add("gato");
 
-                    //       Animales.Add("perro");
+                          Animales.Add("perro");
                     //Animales.Add("cebra");
                     //Animales.Add("conejo");
 
@@ -819,6 +1006,51 @@ namespace ArmaPalabra.Gameplay
             if (levelDone())
             {
                 nivelTreminado = true;
+
+                switch (VariablesGlobales.palabraActual)
+                {
+                    case "gato":
+
+                        System.Threading.Thread.Sleep(600);
+                        silabaGA.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaTO.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                    case "leon":
+
+                        System.Threading.Thread.Sleep(600);
+                        silabaLE.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaON.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                    case "perro":
+
+                        System.Threading.Thread.Sleep(600);
+                        silabaPE.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaRRO.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                    case "conejo":
+
+                        System.Threading.Thread.Sleep(600);
+                        silabaCO.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaNE.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaJO.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                }
+
+
+
                 //Deberia de haber una especie de animacion entre niveles 
                 if (nivel + 1 < niveles.Count)
                 {
