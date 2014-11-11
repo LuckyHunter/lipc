@@ -873,10 +873,24 @@ namespace ArmaPalabra.Screens
         public override void Draw(GameTime gameTime)
         {
 
-            foreach (IDrawable dwb in Components)
+/*            foreach (IDrawable dwb in Components)
                 dwb.Draw(gameTime);
+            */
 
 
+  
+              
+            
+             IDrawable a = (IDrawable) Components.ElementAt(0);
+                    a.Draw(gameTime);
+
+                IDrawable b = (IDrawable)Components.ElementAt(1);
+                b.Draw(gameTime);
+
+
+                IDrawable c = (IDrawable)Components.ElementAt(2);
+                c.Draw(gameTime);
+            
             SharedSpriteBatch.Begin();
             SharedSpriteBatch.DrawString(fuenteSprite, string.Format("{0}", new TimeSpan(0, 0, SesionPartida.Instancia.tiempoSegundo).ToString(@"mm\:ss")), new Vector2(0, 0), Color.Black);
             SharedSpriteBatch.End();
