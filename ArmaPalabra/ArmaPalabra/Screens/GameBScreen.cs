@@ -9,12 +9,16 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Media;
 using LPGames.KinectToolbox;
+using Microsoft.Xna.Framework.Audio;
 
 namespace ArmaPalabra.Screens
 {
 
     public class GameBScreen : DrawableGameComponent
     {
+
+        private int contadorPantallGrande = 0;
+
         EscenarioB escenarioActual;
         Jugador jugador;
         SpriteFont fuenteSprite;
@@ -31,6 +35,8 @@ namespace ArmaPalabra.Screens
         private const int ACCION_MANO_IZQUIERDA = 2;
         public static int contadorIntervalo = 0;
         public event EventHandler<ScreenEventArgs> salirScreenEventArgs;
+
+        private string palabraactual = String.Empty;
 
         Song backgroundMusic;
         SoundEffect exitoSound;
@@ -735,8 +741,57 @@ namespace ArmaPalabra.Screens
 
         public override void Update(GameTime gameTime)
         {
+            /*if (VariablesGlobales.pronunciarPalabra == true)
+            {
+                if (contadorPantallGrande > 99 && contadorPantallGrande < 102)
+                {
+                    switch (VariablesGlobales.palabraActual)
+                    {
+                        case "gato":
 
+                            System.Threading.Thread.Sleep(600);
 
+                            silabaGA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaTO.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "leon":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaLE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaON.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "perro":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaPE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaRRO.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "conejo":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaCO.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaNE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaJO.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                    }
+                }
+            }*/
 
             if (SesionPartida.Instancia.tiempoSegundo == 0)
             {
@@ -878,11 +933,12 @@ namespace ArmaPalabra.Screens
             */
 
 
-  
-              
-            
-             IDrawable a = (IDrawable) Components.ElementAt(0);
-                    a.Draw(gameTime);
+
+
+            if (VariablesGlobales.pronunciarPalabra == false)
+            {
+                IDrawable a = (IDrawable)Components.ElementAt(0);
+                a.Draw(gameTime);
 
                 IDrawable b = (IDrawable)Components.ElementAt(1);
                 b.Draw(gameTime);
@@ -890,6 +946,69 @@ namespace ArmaPalabra.Screens
 
                 IDrawable c = (IDrawable)Components.ElementAt(2);
                 c.Draw(gameTime);
+
+                palabraactual = VariablesGlobales.palabraActual;
+            }
+            else
+            {
+                
+                contadorPantallGrande = contadorPantallGrande + 1;
+                IDrawable a = (IDrawable)Components.ElementAt(0);
+                a.Draw(gameTime);
+
+                
+                
+                if (contadorPantallGrande > 70)
+                {
+                    switch (palabraactual)
+                    {
+                        case "gato":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaGA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaTO.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "leon":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaLE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaON.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "perro":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaPE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaRRO.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "conejo":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaCO.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaNE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaJO.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                    }
+                    VariablesGlobales.pronunciarPalabra = false;
+                    contadorPantallGrande = 0;
+                }
+            }
             
             SharedSpriteBatch.Begin();
             SharedSpriteBatch.DrawString(fuenteSprite, string.Format("{0}", new TimeSpan(0, 0, SesionPartida.Instancia.tiempoSegundo).ToString(@"mm\:ss")), new Vector2(0, 0), Color.Black);

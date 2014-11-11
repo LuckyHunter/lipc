@@ -1007,11 +1007,14 @@ namespace ArmaPalabra.Gameplay
             {
                 nivelTreminado = true;
 
-                switch (VariablesGlobales.palabraActual)
+                VariablesGlobales.pronunciarPalabra = true;
+
+                /*switch (VariablesGlobales.palabraActual)
                 {
                     case "gato":
 
                         System.Threading.Thread.Sleep(600);
+                        
                         silabaGA.Play();
                         System.Threading.Thread.Sleep(500);
                         silabaTO.Play();
@@ -1021,6 +1024,7 @@ namespace ArmaPalabra.Gameplay
                     case "leon":
 
                         System.Threading.Thread.Sleep(600);
+                        
                         silabaLE.Play();
                         System.Threading.Thread.Sleep(500);
                         silabaON.Play();
@@ -1030,6 +1034,7 @@ namespace ArmaPalabra.Gameplay
                     case "perro":
 
                         System.Threading.Thread.Sleep(600);
+                        
                         silabaPE.Play();
                         System.Threading.Thread.Sleep(500);
                         silabaRRO.Play();
@@ -1039,6 +1044,7 @@ namespace ArmaPalabra.Gameplay
                     case "conejo":
 
                         System.Threading.Thread.Sleep(600);
+                        
                         silabaCO.Play();
                         System.Threading.Thread.Sleep(500);
                         silabaNE.Play();
@@ -1047,9 +1053,10 @@ namespace ArmaPalabra.Gameplay
                         System.Threading.Thread.Sleep(600);
                         break;
 
-                }
+                }*/
 
-
+                
+                
 
                 //Deberia de haber una especie de animacion entre niveles 
                 if (nivel + 1 < niveles.Count)
