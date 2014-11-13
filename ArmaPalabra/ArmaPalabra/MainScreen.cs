@@ -113,7 +113,7 @@ namespace ArmaPalabra
 
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
-        /// all of your content.
+        /// all of your content
         /// </summary>
         protected override void LoadContent()
         {
@@ -127,7 +127,6 @@ namespace ArmaPalabra
             kinectCursor = new KinectCursor(this, cursorTexture, 70, 70);
             this.Services.AddService(typeof(KinectCursor), kinectCursor);
             this.Components.Add(kinectCursor);
-
 
             VariablesGlobales.nivel = 1;
             VariablesGlobales.tipoObjeto = 1;

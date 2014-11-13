@@ -9,7 +9,8 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Media;
 using LPGames.KinectToolbox;
-using Microsoft.Xna.Framework.Audio;
+using ArmaPalabra.GamePlay;
+
 
 namespace ArmaPalabra.Screens
 {
@@ -20,6 +21,8 @@ namespace ArmaPalabra.Screens
         private int contadorPantallGrande = 0;
 
         EscenarioB escenarioActual;
+        ImagenObjeto imgObj;
+
         Jugador jugador;
         SpriteFont fuenteSprite;
         SoundEffect burbujaSound;
@@ -536,7 +539,7 @@ namespace ArmaPalabra.Screens
 
 
 
-                                if (VariablesGlobales.nivel == 1 || VariablesGlobales.nivel == 2)
+                                if (VariablesGlobales.nivel == 1 || VariablesGlobales.nivel == 2 || VariablesGlobales.nivel == 3)
                                     switch (VariablesGlobales.silabaActual)
                                     {
                                         //Animales
@@ -631,7 +634,8 @@ namespace ArmaPalabra.Screens
                                         case "x": sonidoX.Play(); break;
                                         case "y": sonidoY.Play(); break;
                                         case "z": sonidoZ.Play(); break;
-                                    }                              
+                                    } 
+                             
                                 // exitoSound.Play();
                                 //PartidaDetalleDALC.Instancia.GuardarPartidaDetalle(new BE.PartidaDetalleBE(SesionPartida.Instancia.codigoPartida, ACCION_AGRUPAR_OBJETO, true));
                                 return true;
@@ -928,12 +932,10 @@ namespace ArmaPalabra.Screens
         public override void Draw(GameTime gameTime)
         {
 
-/*            foreach (IDrawable dwb in Components)
-                dwb.Draw(gameTime);
-            */
-
-
-
+        /*           
+        foreach (IDrawable dwb in Components)
+        dwb.Draw(gameTime);
+        */
 
             if (VariablesGlobales.pronunciarPalabra == false)
             {
@@ -956,8 +958,11 @@ namespace ArmaPalabra.Screens
                 IDrawable a = (IDrawable)Components.ElementAt(0);
                 a.Draw(gameTime);
 
-                
-                
+                imgObj = new ImagenObjeto(this.Game);
+                this.Components.Add(imgObj);
+                IDrawable b = (IDrawable)Components.Last() ;
+                b.Draw(gameTime);
+                                
                 if (contadorPantallGrande > 70)
                 {
                     switch (palabraactual)
@@ -965,7 +970,6 @@ namespace ArmaPalabra.Screens
                         case "gato":
 
                             System.Threading.Thread.Sleep(600);
-
                             silabaGA.Play();
                             System.Threading.Thread.Sleep(500);
                             silabaTO.Play();

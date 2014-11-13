@@ -112,6 +112,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controls\Button.cs" />
+    <Compile Include="GamePlay\ImagenObjeto.cs" />
     <Compile Include="GamePlay\Jugador.cs" />
     <Compile Include="GamePlay\Letrero.cs" />
     <Compile Include="GamePlay\Mensaje.cs" />

@@ -263,16 +263,12 @@ namespace ArmaPalabra.Gameplay
                     Animales = new List<string>();
 
                     Animales.Add("leon");
-
-
-                   
                     Animales.Add("gato");
 
-                          Animales.Add("perro");
+                    //Animales.Add("perro");
                     //Animales.Add("cebra");
                     //Animales.Add("conejo");
-
-                    //        Animales.Add("jirafa");
+                    //Animales.Add("jirafa");
 
 
                     //          Animales.Add("caballo");
@@ -346,11 +342,7 @@ namespace ArmaPalabra.Gameplay
                     //Animales.Add("sandia");
                     Animales.Add("galleta");
 
-
-
-
                     //------Desordenar
-
                     for (int i = Animales.Count - 1; i > 0; i--)
                     {
                         int rand = r.Next((i + 1));
@@ -371,14 +363,10 @@ namespace ArmaPalabra.Gameplay
                         for (int j = 0; j < a.Count(); j++)
                         {
                             Letras.Add(a[j]);
-
                         }
                     }
-
-
-
-
                     break;
+
                 case 3:
 
 
@@ -738,7 +726,7 @@ namespace ArmaPalabra.Gameplay
                     finNivel += niveles[nivel];
                     nivelTreminado = false;
 
-                    VariablesGlobales.palabraActual = Animales[nivel];
+                 //  VariablesGlobales.palabraActual = Animales[nivel];
                 }
             }
             else
@@ -991,6 +979,8 @@ namespace ArmaPalabra.Gameplay
         }
         public override void Draw(GameTime gameTime)
         {
+
+            VariablesGlobales.palabraActual = Animales[nivel];
             lstObjetos.Last().Draw(gameTime);
             foreach (ObjetoCapturable oc in lstObjetos)
             {
@@ -1061,6 +1051,7 @@ namespace ArmaPalabra.Gameplay
                 //Deberia de haber una especie de animacion entre niveles 
                 if (nivel + 1 < niveles.Count)
                 {
+
                     LoadWord();
                     LoadAnswer();
                     LoadAnimal();

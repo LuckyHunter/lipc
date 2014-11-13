@@ -12,7 +12,6 @@ namespace ArmaPalabra
         public static int tipoObjeto;
         public static string palabraActual;
         public static string silabaActual;
-
         public static bool  pronunciarPalabra ;
     }
 }

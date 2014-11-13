@@ -19,9 +19,12 @@ namespace ArmaPalabra.Gameplay.Niveles
 
         public override void Initialize()
         {
-            backgroundGame = this.Game.Content.Load<Texture2D>("gamePBackground1");
-           base.Initialize();
-           
+            //-------------------------------------------
+            Random r = new Random();
+           int num = r.Next(1,6);                
+            backgroundGame = this.Game.Content.Load<Texture2D>("gamePBackground"+num.ToString());
+            //-------------------------------------------
+            base.Initialize();           
         }
 
         public override void Draw(GameTime gameTime)
