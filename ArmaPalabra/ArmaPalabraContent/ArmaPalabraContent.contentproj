@@ -47,26 +47,6 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
-    <Compile Include="botonComenzar.png">
-      <Name>botonComenzar</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="botonContinuar.png">
-      <Name>botonContinuar</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="botonIrInicio.png">
-      <Name>botonIrInicio</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-    <Compile Include="botonSalir.png">
-      <Name>botonSalir</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
     <Compile Include="burbuja.png">
       <Name>burbuja</Name>
       <Importer>TextureImporter</Importer>
@@ -1360,6 +1340,33 @@
     </Compile>
     <Compile Include="gamePBackground5.jpg">
       <Name>gamePBackground5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="botonComenzar.jpg">
+      <Name>botonComenzar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="botonContinuar.jpg">
+      <Name>botonContinuar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="botonIrInicio.jpg">
+      <Name>botonIrInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="botonOtroElemento.jpg">
+      <Name>botonOtroElemento</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="botonSalir.jpg">
+      <Name>botonSalir</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

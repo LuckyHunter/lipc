@@ -46,7 +46,7 @@ namespace ArmaPalabra.Screens
             base.LoadContent();
             backgroundPausa = Game.Content.Load<Texture2D>("FondoPausa");
             botonSalirTxt2d = Game.Content.Load<Texture2D>("botonSalir");
-            botonIrInicioTxt2d = Game.Content.Load<Texture2D>("botonIrInicio");
+            botonIrInicioTxt2d = Game.Content.Load<Texture2D>("botonOtroElemento");
             botonSiguienteTxt2d = Game.Content.Load<Texture2D>("botonContinuar");
             tituloTexture = Game.Content.Load<Texture2D>("tituloPausa");
             this.AgregarComponentesVista();

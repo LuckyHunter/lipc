@@ -1,8 +1,4 @@
 Content\Bone.xnb
-Content\botonComenzar.xnb
-Content\botonContinuar.xnb
-Content\botonIrInicio.xnb
-Content\botonSalir.xnb
 Content\burbuja.xnb
 Content\cabeza.xnb
 Content\cabeza2.xnb
@@ -132,6 +128,11 @@ Content\gamePBackground2.xnb
 Content\gamePBackground3.xnb
 Content\gamePBackground4.xnb
 Content\gamePBackground5.xnb
+Content\botonComenzar.xnb
+Content\botonContinuar.xnb
+Content\botonIrInicio.xnb
+Content\botonOtroElemento.xnb
+Content\botonSalir.xnb
 Content\FuenteMensaje.xnb
 Content\Segoe16.xnb
 Content\sonidos\aparecer.xnb

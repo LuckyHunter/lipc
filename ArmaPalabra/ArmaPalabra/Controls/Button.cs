@@ -88,7 +88,7 @@ namespace ArmaPalabra.Controls
                 MediaPlayer.IsRepeating = false;
                 if (intervaloTiempo.TotalMilliseconds <= 17 && MediaPlayer.State != MediaState.Playing)
                 {
-                    MediaPlayer.Play(aparecerSonido);
+                    //MediaPlayer.Play(aparecerSonido);
                 }
 
                 if (intervaloTiempo.TotalMilliseconds < tiempoSeleccion)

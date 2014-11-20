@@ -8,43 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Bone.xnb</Output>
-      <Time>2014-11-04T18:11:33.7716068-05:00</Time>
-    </Item>
-    <Item>
-      <Source>botonComenzar.png</Source>
-      <Name>botonComenzar</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb</Output>
-      <Time>2014-11-04T18:11:34.1518579-05:00</Time>
-    </Item>
-    <Item>
-      <Source>botonContinuar.png</Source>
-      <Name>botonContinuar</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb</Output>
-      <Time>2014-11-04T18:11:34.1518579-05:00</Time>
-    </Item>
-    <Item>
-      <Source>botonIrInicio.png</Source>
-      <Name>botonIrInicio</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb</Output>
-      <Time>2014-11-04T18:11:34.1528594-05:00</Time>
-    </Item>
-    <Item>
-      <Source>botonSalir.png</Source>
-      <Name>botonSalir</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb</Output>
-      <Time>2014-11-04T18:11:34.1538592-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>burbuja.png</Source>
@@ -53,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\burbuja.xnb</Output>
-      <Time>2014-11-04T18:11:34.1548607-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>cabeza.png</Source>
@@ -62,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza.xnb</Output>
-      <Time>2014-11-04T18:11:34.1548607-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>cabeza2.png</Source>
@@ -71,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cabeza2.xnb</Output>
-      <Time>2014-11-04T18:11:34.1558618-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>canastaAzul.png</Source>
@@ -80,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaAzul.xnb</Output>
-      <Time>2014-11-04T18:11:34.1558618-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>canastaRojo.png</Source>
@@ -89,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\canastaRojo.xnb</Output>
-      <Time>2014-11-04T18:11:34.1558618-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>ChooserBackground.png</Source>
@@ -98,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\ChooserBackground.xnb</Output>
-      <Time>2014-11-04T18:11:33.7716068-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>clothTexture.png</Source>
@@ -107,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\clothTexture.xnb</Output>
-      <Time>2014-11-04T18:11:34.1568625-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>cottonTexture.png</Source>
@@ -116,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\cottonTexture.xnb</Output>
-      <Time>2014-11-04T18:11:34.1728731-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>FondoPausa.png</Source>
@@ -125,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FondoPausa.xnb</Output>
-      <Time>2014-11-04T18:11:33.7776103-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>GameBackground.png</Source>
@@ -134,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\GameBackground.xnb</Output>
-      <Time>2014-11-04T18:11:33.7816142-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>gamePBackground.png</Source>
@@ -143,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground.xnb</Output>
-      <Time>2014-11-04T18:11:34.181879-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>guiaFondo.png</Source>
@@ -152,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\guiaFondo.xnb</Output>
-      <Time>2014-11-04T18:11:34.1878822-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>handIcon.png</Source>
@@ -161,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\handIcon.xnb</Output>
-      <Time>2014-11-04T18:11:34.1888828-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Joint.png</Source>
@@ -170,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Joint.xnb</Output>
-      <Time>2014-11-04T18:11:33.7826141-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>JointCloth.png</Source>
@@ -179,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\JointCloth.xnb</Output>
-      <Time>2014-11-04T18:11:33.7836151-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>letrero.png</Source>
@@ -188,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letrero.xnb</Output>
-      <Time>2014-11-04T18:11:34.4570602-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>mano-der.png</Source>
@@ -197,7 +161,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-der.xnb</Output>
-      <Time>2014-11-04T18:11:34.6984028-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>mano-izq.png</Source>
@@ -206,7 +170,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\mano-izq.xnb</Output>
-      <Time>2014-11-04T18:11:34.6994039-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto1.png</Source>
@@ -215,7 +179,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto1.xnb</Output>
-      <Time>2014-11-04T18:11:34.7034065-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto10.png</Source>
@@ -224,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto10.xnb</Output>
-      <Time>2014-11-04T18:11:34.7044072-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto11.png</Source>
@@ -233,7 +197,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto11.xnb</Output>
-      <Time>2014-11-04T18:11:34.7044072-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto12.png</Source>
@@ -242,7 +206,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto12.xnb</Output>
-      <Time>2014-11-04T18:11:34.7054083-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto13.png</Source>
@@ -251,7 +215,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto13.xnb</Output>
-      <Time>2014-11-04T18:11:34.7054083-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto14.png</Source>
@@ -260,7 +224,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto14.xnb</Output>
-      <Time>2014-11-04T18:11:34.7064085-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto15.png</Source>
@@ -269,7 +233,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto15.xnb</Output>
-      <Time>2014-11-04T18:11:34.7074079-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto16.png</Source>
@@ -278,7 +242,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto16.xnb</Output>
-      <Time>2014-11-04T18:11:34.7074079-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto17.png</Source>
@@ -287,7 +251,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto17.xnb</Output>
-      <Time>2014-11-04T18:11:34.7084098-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto18.png</Source>
@@ -296,7 +260,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto18.xnb</Output>
-      <Time>2014-11-04T18:11:34.7094101-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto2.png</Source>
@@ -305,7 +269,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto2.xnb</Output>
-      <Time>2014-11-04T18:11:34.8316816-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto3.png</Source>
@@ -314,7 +278,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto3.xnb</Output>
-      <Time>2014-11-04T18:11:34.8326822-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto4.png</Source>
@@ -323,7 +287,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto4.xnb</Output>
-      <Time>2014-11-04T18:11:34.8326822-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto5.png</Source>
@@ -332,7 +296,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto5.xnb</Output>
-      <Time>2014-11-04T18:11:34.8336842-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto6.png</Source>
@@ -341,7 +305,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto6.xnb</Output>
-      <Time>2014-11-04T18:11:34.8336842-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto7.png</Source>
@@ -350,7 +314,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto7.xnb</Output>
-      <Time>2014-11-04T18:11:34.8346844-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto8.png</Source>
@@ -359,7 +323,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto8.xnb</Output>
-      <Time>2014-11-04T18:11:34.8356842-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objeto9.png</Source>
@@ -368,7 +332,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objeto9.xnb</Output>
-      <Time>2014-11-04T18:11:34.8356842-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>tituloAtrapaAgrupa.png</Source>
@@ -377,7 +341,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloAtrapaAgrupa.xnb</Output>
-      <Time>2014-11-04T18:11:35.159436-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>tituloPausa.png</Source>
@@ -386,7 +350,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloPausa.xnb</Output>
-      <Time>2014-11-04T18:11:35.1604371-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>tituloReventarGlobos.png</Source>
@@ -395,7 +359,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\tituloReventarGlobos.xnb</Output>
-      <Time>2014-11-04T18:11:35.1614373-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>valdeAmarillo.png</Source>
@@ -404,7 +368,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAmarillo.xnb</Output>
-      <Time>2014-11-04T18:11:35.1614373-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>valdeAzul.png</Source>
@@ -413,7 +377,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeAzul.xnb</Output>
-      <Time>2014-11-04T18:11:35.162438-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>valdeChico.png</Source>
@@ -422,7 +386,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeChico.xnb</Output>
-      <Time>2014-11-04T18:11:35.1634391-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>valdeGrande.png</Source>
@@ -431,7 +395,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeGrande.xnb</Output>
-      <Time>2014-11-04T18:11:35.1634391-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>valdeRojo.png</Source>
@@ -440,7 +404,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\valdeRojo.xnb</Output>
-      <Time>2014-11-04T18:11:35.1644397-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letter_A.jpg</Source>
@@ -449,7 +413,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_A.xnb</Output>
-      <Time>2014-11-04T18:11:34.4600626-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letter_E.jpg</Source>
@@ -458,7 +422,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_E.xnb</Output>
-      <Time>2014-11-04T18:11:34.696401-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letter_L.jpg</Source>
@@ -467,7 +431,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_L.xnb</Output>
-      <Time>2014-11-04T18:11:34.696401-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letter_M.jpg</Source>
@@ -476,7 +440,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_M.xnb</Output>
-      <Time>2014-11-04T18:11:34.6974021-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letter_N.jpg</Source>
@@ -485,7 +449,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_N.xnb</Output>
-      <Time>2014-11-04T18:11:34.6974021-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letter_O.jpg</Source>
@@ -494,7 +458,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letter_O.xnb</Output>
-      <Time>2014-11-04T18:11:34.6984028-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>base_Letter.jpg</Source>
@@ -503,7 +467,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\base_Letter.xnb</Output>
-      <Time>2014-11-04T18:11:34.1508581-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letterResourse.jpg</Source>
@@ -512,7 +476,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letterResourse.xnb</Output>
-      <Time>2014-11-04T18:11:34.4590616-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sprite.png</Source>
@@ -521,7 +485,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sprite.xnb</Output>
-      <Time>2014-11-04T18:11:35.158434-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_a.png</Source>
@@ -530,7 +494,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_a.xnb</Output>
-      <Time>2014-11-04T18:11:34.2429186-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_b.png</Source>
@@ -539,7 +503,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_b.xnb</Output>
-      <Time>2014-11-04T18:11:34.2449212-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_c.png</Source>
@@ -548,7 +512,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_c.xnb</Output>
-      <Time>2014-11-04T18:11:34.2469212-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_d.png</Source>
@@ -557,7 +521,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_d.xnb</Output>
-      <Time>2014-11-04T18:11:34.2489234-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_e.png</Source>
@@ -566,7 +530,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_e.xnb</Output>
-      <Time>2014-11-04T18:11:34.2509247-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_f.png</Source>
@@ -575,7 +539,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_f.xnb</Output>
-      <Time>2014-11-04T18:11:34.2529256-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_g.png</Source>
@@ -584,7 +548,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_g.xnb</Output>
-      <Time>2014-11-04T18:11:34.4190346-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_h.png</Source>
@@ -593,7 +557,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_h.xnb</Output>
-      <Time>2014-11-04T18:11:34.4220375-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_i.png</Source>
@@ -602,7 +566,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_i.xnb</Output>
-      <Time>2014-11-04T18:11:34.4240388-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_j.png</Source>
@@ -611,7 +575,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_j.xnb</Output>
-      <Time>2014-11-04T18:11:34.4260406-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_k.png</Source>
@@ -620,7 +584,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_k.xnb</Output>
-      <Time>2014-11-04T18:11:34.4280415-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_l.png</Source>
@@ -629,7 +593,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_l.xnb</Output>
-      <Time>2014-11-04T18:11:34.4300432-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_m.png</Source>
@@ -638,7 +602,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_m.xnb</Output>
-      <Time>2014-11-04T18:11:34.431043-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_n.png</Source>
@@ -647,7 +611,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_n.xnb</Output>
-      <Time>2014-11-04T18:11:34.4330439-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_ñ.png</Source>
@@ -656,7 +620,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_ñ.xnb</Output>
-      <Time>2014-11-04T18:11:34.4570602-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_o.png</Source>
@@ -665,7 +629,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_o.xnb</Output>
-      <Time>2014-11-04T18:11:34.4350461-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_p.png</Source>
@@ -674,7 +638,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_p.xnb</Output>
-      <Time>2014-11-04T18:11:34.4370474-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_q.png</Source>
@@ -683,7 +647,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_q.xnb</Output>
-      <Time>2014-11-04T18:11:34.4380485-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_r.png</Source>
@@ -692,7 +656,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_r.xnb</Output>
-      <Time>2014-11-04T18:11:34.4400494-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_rr.png</Source>
@@ -701,7 +665,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_rr.xnb</Output>
-      <Time>2014-11-04T18:11:34.4420512-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_s.png</Source>
@@ -710,7 +674,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_s.xnb</Output>
-      <Time>2014-11-04T18:11:34.443051-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_t.png</Source>
@@ -719,7 +683,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_t.xnb</Output>
-      <Time>2014-11-04T18:11:34.4450519-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_u.png</Source>
@@ -728,7 +692,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_u.xnb</Output>
-      <Time>2014-11-04T18:11:34.447054-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_v.png</Source>
@@ -737,7 +701,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_v.xnb</Output>
-      <Time>2014-11-04T18:11:34.4490554-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_w.png</Source>
@@ -746,7 +710,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_w.xnb</Output>
-      <Time>2014-11-04T18:11:34.450056-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_x.png</Source>
@@ -755,7 +719,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_x.xnb</Output>
-      <Time>2014-11-04T18:11:34.4520569-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_y.png</Source>
@@ -764,7 +728,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_y.xnb</Output>
-      <Time>2014-11-04T18:11:34.4540582-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>letras\letra_z.png</Source>
@@ -773,7 +737,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\letras\letra_z.xnb</Output>
-      <Time>2014-11-04T18:11:34.4550589-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>imagenes\game.jpg</Source>
@@ -782,7 +746,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\game.xnb</Output>
-      <Time>2014-11-04T18:11:34.2008916-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>imagenes\logo.png</Source>
@@ -791,7 +755,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo.xnb</Output>
-      <Time>2014-11-04T18:11:34.2139002-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>imagenes\logo1.png</Source>
@@ -800,7 +764,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logo1.xnb</Output>
-      <Time>2014-11-04T18:11:34.2249066-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>imagenes\menu.jpg</Source>
@@ -809,7 +773,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\menu.xnb</Output>
-      <Time>2014-11-04T18:11:34.2399183-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>imagenes\logoC.png</Source>
@@ -818,7 +782,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\imagenes\logoC.xnb</Output>
-      <Time>2014-11-04T18:11:34.2259082-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_caballo.png</Source>
@@ -827,7 +791,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_caballo.xnb</Output>
-      <Time>2014-11-04T18:11:34.1038261-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_camello.png</Source>
@@ -836,7 +800,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_camello.xnb</Output>
-      <Time>2014-11-04T18:11:34.1078301-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_cebra.png</Source>
@@ -845,7 +809,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cebra.xnb</Output>
-      <Time>2014-11-04T18:11:34.110832-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_cerdo.png</Source>
@@ -854,7 +818,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_cerdo.xnb</Output>
-      <Time>2014-11-04T18:11:34.1128334-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_conejo.png</Source>
@@ -863,7 +827,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_conejo.xnb</Output>
-      <Time>2014-11-04T18:11:34.1148343-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_foca.png</Source>
@@ -872,7 +836,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_foca.xnb</Output>
-      <Time>2014-11-04T18:11:34.1228391-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_gato.png</Source>
@@ -881,7 +845,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_gato.xnb</Output>
-      <Time>2014-11-04T18:11:34.1258411-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_jirafa.png</Source>
@@ -890,7 +854,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_jirafa.xnb</Output>
-      <Time>2014-11-04T18:11:34.1288435-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_leon.png</Source>
@@ -899,7 +863,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_leon.xnb</Output>
-      <Time>2014-11-04T18:11:34.1298442-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_llama.png</Source>
@@ -908,7 +872,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_llama.xnb</Output>
-      <Time>2014-11-04T18:11:34.1318455-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_lobo.png</Source>
@@ -917,7 +881,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_lobo.xnb</Output>
-      <Time>2014-11-04T18:11:34.1338473-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_loro.png</Source>
@@ -926,7 +890,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_loro.xnb</Output>
-      <Time>2014-11-04T18:11:34.1368484-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_perro.png</Source>
@@ -935,7 +899,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_perro.xnb</Output>
-      <Time>2014-11-04T18:11:34.1448533-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_tigre.png</Source>
@@ -944,7 +908,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_tigre.xnb</Output>
-      <Time>2014-11-04T18:11:34.1468567-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_vaca.png</Source>
@@ -953,7 +917,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_vaca.xnb</Output>
-      <Time>2014-11-04T18:11:34.1488572-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>gamePBackground1.jpg</Source>
@@ -962,7 +926,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground1.xnb</Output>
-      <Time>2014-11-04T18:11:34.1868823-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_oso.png</Source>
@@ -971,7 +935,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_oso.xnb</Output>
-      <Time>2014-11-04T18:11:34.1428519-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>animales\img_elefante.png</Source>
@@ -980,7 +944,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\animales\img_elefante.xnb</Output>
-      <Time>2014-11-04T18:11:34.1188378-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_arroz.png</Source>
@@ -989,7 +953,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_arroz.xnb</Output>
-      <Time>2014-11-04T18:11:34.1578627-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_cereal.png</Source>
@@ -998,7 +962,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_cereal.xnb</Output>
-      <Time>2014-11-04T18:11:34.1588642-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_empanada.png</Source>
@@ -1007,7 +971,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_empanada.xnb</Output>
-      <Time>2014-11-04T18:11:34.1588642-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_galleta.png</Source>
@@ -1016,7 +980,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_galleta.xnb</Output>
-      <Time>2014-11-04T18:11:34.1598649-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_jamonada.png</Source>
@@ -1025,7 +989,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_jamonada.xnb</Output>
-      <Time>2014-11-04T18:11:34.1608647-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_lechuga.png</Source>
@@ -1034,7 +998,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_lechuga.xnb</Output>
-      <Time>2014-11-04T18:11:34.1618675-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_pera.png</Source>
@@ -1043,7 +1007,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_pera.xnb</Output>
-      <Time>2014-11-04T18:11:34.1628665-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_piña.png</Source>
@@ -1052,7 +1016,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_piña.xnb</Output>
-      <Time>2014-11-04T18:11:34.1628665-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_sandia.png</Source>
@@ -1061,7 +1025,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_sandia.xnb</Output>
-      <Time>2014-11-04T18:11:34.1638671-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>comidas\img_torta.png</Source>
@@ -1070,7 +1034,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\comidas\img_torta.xnb</Output>
-      <Time>2014-11-04T18:11:34.1728731-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_borrador.png</Source>
@@ -1079,7 +1043,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_borrador.xnb</Output>
-      <Time>2014-11-04T18:11:34.8366857-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_cuchara.png</Source>
@@ -1088,7 +1052,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_cuchara.xnb</Output>
-      <Time>2014-11-04T18:11:34.8376855-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_lapiz.png</Source>
@@ -1097,7 +1061,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_lapiz.xnb</Output>
-      <Time>2014-11-04T18:11:34.8386866-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_mesa.png</Source>
@@ -1106,7 +1070,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mesa.xnb</Output>
-      <Time>2014-11-04T18:11:34.8396869-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_mochila.png</Source>
@@ -1115,7 +1079,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_mochila.xnb</Output>
-      <Time>2014-11-04T18:11:34.8396869-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_pelota.png</Source>
@@ -1124,7 +1088,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_pelota.xnb</Output>
-      <Time>2014-11-04T18:11:34.9853268-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_reloj.png</Source>
@@ -1133,7 +1097,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_reloj.xnb</Output>
-      <Time>2014-11-04T18:11:34.9853268-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_silla.png</Source>
@@ -1142,7 +1106,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_silla.xnb</Output>
-      <Time>2014-11-04T18:11:34.986321-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_telefono.png</Source>
@@ -1151,7 +1115,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_telefono.xnb</Output>
-      <Time>2014-11-04T18:11:34.9873221-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_tijera.png</Source>
@@ -1160,7 +1124,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_tijera.xnb</Output>
-      <Time>2014-11-04T18:11:34.9873221-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>objetos\img_caja.png</Source>
@@ -1169,7 +1133,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\objetos\img_caja.xnb</Output>
-      <Time>2014-11-04T18:11:34.8376855-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>gamePBackground2.jpg</Source>
@@ -1178,7 +1142,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground2.xnb</Output>
-      <Time>2014-11-12T11:01:27.255109-05:00</Time>
+      <Time>2014-11-12T11:01:28-05:00</Time>
     </Item>
     <Item>
       <Source>gamePBackground3.jpg</Source>
@@ -1187,7 +1151,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground3.xnb</Output>
-      <Time>2014-11-12T11:01:27.2561093-05:00</Time>
+      <Time>2014-11-12T11:01:28-05:00</Time>
     </Item>
     <Item>
       <Source>gamePBackground4.jpg</Source>
@@ -1196,7 +1160,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground4.xnb</Output>
-      <Time>2014-11-12T11:01:27.254108-05:00</Time>
+      <Time>2014-11-12T11:01:28-05:00</Time>
     </Item>
     <Item>
       <Source>gamePBackground5.jpg</Source>
@@ -1205,7 +1169,52 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground5.xnb</Output>
-      <Time>2014-11-12T11:01:27.255109-05:00</Time>
+      <Time>2014-11-12T11:01:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonComenzar.jpg</Source>
+      <Name>botonComenzar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb</Output>
+      <Time>2014-11-20T09:29:33.3934105-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonContinuar.jpg</Source>
+      <Name>botonContinuar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb</Output>
+      <Time>2014-11-20T09:29:20.5114766-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonIrInicio.jpg</Source>
+      <Name>botonIrInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb</Output>
+      <Time>2014-11-20T09:27:37.2470837-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonOtroElemento.jpg</Source>
+      <Name>botonOtroElemento</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonOtroElemento.xnb</Output>
+      <Time>2014-11-20T09:28:52.8590016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonSalir.jpg</Source>
+      <Name>botonSalir</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb</Output>
+      <Time>2014-11-20T09:28:12.0955265-05:00</Time>
     </Item>
     <Item>
       <Source>FuenteMensaje.spritefont</Source>
@@ -1214,7 +1223,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\FuenteMensaje.xnb</Output>
-      <Time>2014-11-04T18:11:33.7786123-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Segoe16.spritefont</Source>
@@ -1223,7 +1232,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Segoe16.xnb</Output>
-      <Time>2014-11-04T18:11:33.7836151-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\aparecer.mp3</Source>
@@ -1233,7 +1242,7 @@
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.xnb</Output>
       <Extra>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer.wma</Extra>
-      <Time>2014-11-04T18:11:34.9903228-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\backgroundMusic.mp3</Source>
@@ -1243,7 +1252,7 @@
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.xnb</Output>
       <Extra>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic.wma</Extra>
-      <Time>2014-11-04T18:11:35.0403559-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\backgroundMusic1.mp3</Source>
@@ -1253,7 +1262,7 @@
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.xnb</Output>
       <Extra>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic1.wma</Extra>
-      <Time>2014-11-04T18:11:35.0483617-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\backgroundMusic2.mp3</Source>
@@ -1263,7 +1272,7 @@
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.xnb</Output>
       <Extra>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\backgroundMusic2.wma</Extra>
-      <Time>2014-11-04T18:11:35.0623709-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\blop.wav</Source>
@@ -1272,7 +1281,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop.xnb</Output>
-      <Time>2014-11-04T18:11:35.1424239-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\errorGuardar.wav</Source>
@@ -1281,7 +1290,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\errorGuardar.xnb</Output>
-      <Time>2014-11-04T18:11:35.1474272-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\exito.wav</Source>
@@ -1290,7 +1299,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\exito.xnb</Output>
-      <Time>2014-11-04T18:11:35.1544318-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\guardar.wav</Source>
@@ -1299,7 +1308,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\guardar.xnb</Output>
-      <Time>2014-11-04T18:11:35.1574338-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_caballo.wav</Source>
@@ -1308,7 +1317,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_caballo.xnb</Output>
-      <Time>2014-11-04T18:11:33.7866171-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_camello.wav</Source>
@@ -1317,7 +1326,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_camello.xnb</Output>
-      <Time>2014-11-04T18:11:33.788618-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_elefante.wav</Source>
@@ -1326,7 +1335,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_elefante.xnb</Output>
-      <Time>2014-11-11T17:17:08.5229453-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_hipopótamo.wav</Source>
@@ -1335,7 +1344,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_hipopótamo.xnb</Output>
-      <Time>2014-11-11T17:17:08.543961-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_jirafa.wav</Source>
@@ -1344,7 +1353,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_jirafa.xnb</Output>
-      <Time>2014-11-11T17:17:08.552964-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_leon.wav</Source>
@@ -1353,7 +1362,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_leon.xnb</Output>
-      <Time>2014-11-04T18:11:33.8616668-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_rinoceronte.wav</Source>
@@ -1362,7 +1371,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_rinoceronte.xnb</Output>
-      <Time>2014-11-04T18:11:33.887684-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_tigre.wav</Source>
@@ -1371,7 +1380,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_tigre.xnb</Output>
-      <Time>2014-11-04T18:11:33.8906855-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_vaca.wav</Source>
@@ -1380,7 +1389,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_vaca.xnb</Output>
-      <Time>2014-11-11T17:17:08.5939946-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\aparecer1.wav</Source>
@@ -1389,7 +1398,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\aparecer1.xnb</Output>
-      <Time>2014-11-04T18:11:35.0273473-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>sonidos\blop1.wav</Source>
@@ -1398,7 +1407,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\sonidos\blop1.xnb</Output>
-      <Time>2014-11-04T18:11:35.1454259-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_cebra.wav</Source>
@@ -1407,7 +1416,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cebra.xnb</Output>
-      <Time>2014-11-11T17:17:08.5109382-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_cerdo.wav</Source>
@@ -1416,7 +1425,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_cerdo.xnb</Output>
-      <Time>2014-11-11T17:17:08.5139389-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_conejo.wav</Source>
@@ -1425,7 +1434,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_conejo.xnb</Output>
-      <Time>2014-11-11T17:17:08.5159403-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_foca.wav</Source>
@@ -1434,7 +1443,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_foca.xnb</Output>
-      <Time>2014-11-11T17:17:08.5309502-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_gato.wav</Source>
@@ -1443,7 +1452,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_gato.xnb</Output>
-      <Time>2014-11-11T17:17:08.5379553-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_lobo.wav</Source>
@@ -1452,7 +1461,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_lobo.xnb</Output>
-      <Time>2014-11-11T17:17:08.5579677-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_loro.wav</Source>
@@ -1461,7 +1470,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_loro.xnb</Output>
-      <Time>2014-11-11T17:17:08.5689759-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_perro.wav</Source>
@@ -1470,7 +1479,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_perro.xnb</Output>
-      <Time>2014-11-11T17:17:08.5809838-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_animales\sound_oso.wav</Source>
@@ -1479,7 +1488,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_animales\sound_oso.xnb</Output>
-      <Time>2014-11-11T17:17:08.5789821-05:00</Time>
+      <Time>2014-11-11T17:17:10-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_a.wav</Source>
@@ -1488,7 +1497,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_a.xnb</Output>
-      <Time>2014-11-04T18:11:33.9076985-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_b.wav</Source>
@@ -1497,7 +1506,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_b.xnb</Output>
-      <Time>2014-11-04T18:11:33.912701-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_c.wav</Source>
@@ -1506,7 +1515,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_c.xnb</Output>
-      <Time>2014-11-04T18:11:33.915703-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_d.wav</Source>
@@ -1515,7 +1524,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_d.xnb</Output>
-      <Time>2014-11-04T18:11:33.9197052-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_e.wav</Source>
@@ -1524,7 +1533,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_e.xnb</Output>
-      <Time>2014-11-04T18:11:33.9237074-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_f.wav</Source>
@@ -1533,7 +1542,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_f.xnb</Output>
-      <Time>2014-11-04T18:11:33.9257091-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_g.wav</Source>
@@ -1542,7 +1551,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_g.xnb</Output>
-      <Time>2014-11-04T18:11:33.9297114-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_i.wav</Source>
@@ -1551,7 +1560,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_i.xnb</Output>
-      <Time>2014-11-04T18:11:33.9327138-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_j.wav</Source>
@@ -1560,7 +1569,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_j.xnb</Output>
-      <Time>2014-11-04T18:11:33.9357153-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_k.wav</Source>
@@ -1569,7 +1578,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_k.xnb</Output>
-      <Time>2014-11-04T18:11:33.9377171-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_l.wav</Source>
@@ -1578,7 +1587,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_l.xnb</Output>
-      <Time>2014-11-04T18:11:33.9407191-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_m.wav</Source>
@@ -1587,7 +1596,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_m.xnb</Output>
-      <Time>2014-11-04T18:11:33.9447213-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_n.wav</Source>
@@ -1596,7 +1605,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_n.xnb</Output>
-      <Time>2014-11-04T18:11:33.9477237-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_o.wav</Source>
@@ -1605,7 +1614,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_o.xnb</Output>
-      <Time>2014-11-04T18:11:33.9507257-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_p.wav</Source>
@@ -1614,7 +1623,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_p.xnb</Output>
-      <Time>2014-11-04T18:11:33.9537268-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_q.wav</Source>
@@ -1623,7 +1632,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_q.xnb</Output>
-      <Time>2014-11-04T18:11:33.955729-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_r.wav</Source>
@@ -1632,7 +1641,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_r.xnb</Output>
-      <Time>2014-11-04T18:11:33.9597308-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_s.wav</Source>
@@ -1641,7 +1650,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_s.xnb</Output>
-      <Time>2014-11-04T18:11:33.9627336-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_t.wav</Source>
@@ -1650,7 +1659,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_t.xnb</Output>
-      <Time>2014-11-04T18:11:33.964735-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_u.wav</Source>
@@ -1659,7 +1668,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_u.xnb</Output>
-      <Time>2014-11-04T18:11:33.9677369-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_w.wav</Source>
@@ -1668,7 +1677,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_w.xnb</Output>
-      <Time>2014-11-04T18:11:33.9727394-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_x.wav</Source>
@@ -1677,7 +1686,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_x.xnb</Output>
-      <Time>2014-11-04T18:11:33.9747412-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_y.wav</Source>
@@ -1686,7 +1695,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_y.xnb</Output>
-      <Time>2014-11-04T18:11:33.977744-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_z.wav</Source>
@@ -1695,7 +1704,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_z.xnb</Output>
-      <Time>2014-11-04T18:11:33.9807456-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_ñ.wav</Source>
@@ -1704,7 +1713,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_ñ.xnb</Output>
-      <Time>2014-11-04T18:11:33.9847473-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_letras\sound_v.wav</Source>
@@ -1713,7 +1722,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_letras\sound_v.xnb</Output>
-      <Time>2014-11-04T18:11:33.9697383-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_a.wav</Source>
@@ -1722,7 +1731,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_a.xnb</Output>
-      <Time>2014-11-04T18:11:33.9867491-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_al.wav</Source>
@@ -1731,7 +1740,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_al.xnb</Output>
-      <Time>2014-11-04T18:11:33.9887504-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ba.wav</Source>
@@ -1740,7 +1749,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ba.xnb</Output>
-      <Time>2014-11-04T18:11:33.9907513-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_bo.wav</Source>
@@ -1749,7 +1758,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_bo.xnb</Output>
-      <Time>2014-11-04T18:11:33.9917524-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_bra.wav</Source>
@@ -1758,7 +1767,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_bra.xnb</Output>
-      <Time>2014-11-04T18:11:33.9937542-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ca.wav</Source>
@@ -1767,7 +1776,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ca.xnb</Output>
-      <Time>2014-11-04T18:11:33.9957546-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ce.wav</Source>
@@ -1776,7 +1785,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ce.xnb</Output>
-      <Time>2014-11-04T18:11:33.9987566-05:00</Time>
+      <Time>2014-11-04T18:11:34-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_cer.wav</Source>
@@ -1785,7 +1794,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cer.xnb</Output>
-      <Time>2014-11-04T18:11:34.0007592-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_cha.wav</Source>
@@ -1794,7 +1803,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cha.xnb</Output>
-      <Time>2014-11-04T18:11:34.0017599-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_chi.wav</Source>
@@ -1803,7 +1812,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_chi.xnb</Output>
-      <Time>2014-11-04T18:11:34.0037612-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_chu.wav</Source>
@@ -1812,7 +1821,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_chu.xnb</Output>
-      <Time>2014-11-04T18:11:34.0057625-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_co.wav</Source>
@@ -1821,7 +1830,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_co.xnb</Output>
-      <Time>2014-11-04T18:11:34.0077639-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_cu.wav</Source>
@@ -1830,7 +1839,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_cu.xnb</Output>
-      <Time>2014-11-04T18:11:34.0097639-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_da.wav</Source>
@@ -1839,7 +1848,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_da.xnb</Output>
-      <Time>2014-11-04T18:11:34.0117665-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_dia.wav</Source>
@@ -1848,7 +1857,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_dia.xnb</Output>
-      <Time>2014-11-04T18:11:34.0137678-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_do.wav</Source>
@@ -1857,7 +1866,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_do.xnb</Output>
-      <Time>2014-11-04T18:11:34.0147685-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_dor.wav</Source>
@@ -1866,7 +1875,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_dor.xnb</Output>
-      <Time>2014-11-04T18:11:34.016769-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_e.wav</Source>
@@ -1875,7 +1884,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_e.xnb</Output>
-      <Time>2014-11-04T18:11:34.0187711-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_em.wav</Source>
@@ -1884,7 +1893,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_em.xnb</Output>
-      <Time>2014-11-04T18:11:34.020775-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_fa.wav</Source>
@@ -1893,7 +1902,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fa.xnb</Output>
-      <Time>2014-11-04T18:11:34.0227734-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_fan.wav</Source>
@@ -1902,7 +1911,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fan.xnb</Output>
-      <Time>2014-11-04T18:11:34.0247747-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_fo.wav</Source>
@@ -1911,7 +1920,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_fo.xnb</Output>
-      <Time>2014-11-04T18:11:34.0267764-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ga.wav</Source>
@@ -1920,7 +1929,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ga.xnb</Output>
-      <Time>2014-11-04T18:11:34.0277771-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_gre.wav</Source>
@@ -1929,7 +1938,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_gre.xnb</Output>
-      <Time>2014-11-04T18:11:34.0297784-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ja.wav</Source>
@@ -1938,7 +1947,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ja.xnb</Output>
-      <Time>2014-11-04T18:11:34.0317793-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_je.wav</Source>
@@ -1947,7 +1956,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_je.xnb</Output>
-      <Time>2014-11-04T18:11:34.0337806-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ji.wav</Source>
@@ -1956,7 +1965,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ji.xnb</Output>
-      <Time>2014-11-04T18:11:34.0347817-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_jo.wav</Source>
@@ -1965,7 +1974,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_jo.xnb</Output>
-      <Time>2014-11-04T18:11:34.0367831-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_la.wav</Source>
@@ -1974,7 +1983,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_la.xnb</Output>
-      <Time>2014-11-04T18:11:34.0387844-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_le.wav</Source>
@@ -1983,7 +1992,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_le.xnb</Output>
-      <Time>2014-11-04T18:11:34.0407853-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_lla.wav</Source>
@@ -1992,7 +2001,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lla.xnb</Output>
-      <Time>2014-11-04T18:11:34.0427866-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_lle.wav</Source>
@@ -2001,7 +2010,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lle.xnb</Output>
-      <Time>2014-11-04T18:11:34.0447926-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_llo.wav</Source>
@@ -2010,7 +2019,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_llo.xnb</Output>
-      <Time>2014-11-04T18:11:34.0467888-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_lo.wav</Source>
@@ -2019,7 +2028,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_lo.xnb</Output>
-      <Time>2014-11-04T18:11:34.0477899-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_loj.wav</Source>
@@ -2028,7 +2037,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_loj.xnb</Output>
-      <Time>2014-11-04T18:11:34.0497908-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ma.wav</Source>
@@ -2037,7 +2046,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ma.xnb</Output>
-      <Time>2014-11-04T18:11:34.0517926-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_me.wav</Source>
@@ -2046,7 +2055,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_me.xnb</Output>
-      <Time>2014-11-04T18:11:34.053793-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_mo.wav</Source>
@@ -2055,7 +2064,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_mo.xnb</Output>
-      <Time>2014-11-04T18:11:34.0557948-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_na.wav</Source>
@@ -2064,7 +2073,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_na.xnb</Output>
-      <Time>2014-11-04T18:11:34.0577965-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ne.wav</Source>
@@ -2073,7 +2082,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ne.xnb</Output>
-      <Time>2014-11-04T18:11:34.0587972-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_no.wav</Source>
@@ -2082,7 +2091,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_no.xnb</Output>
-      <Time>2014-11-04T18:11:34.0607985-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_on.wav</Source>
@@ -2091,7 +2100,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_on.xnb</Output>
-      <Time>2014-11-04T18:11:34.0627998-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_pa.wav</Source>
@@ -2100,7 +2109,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pa.xnb</Output>
-      <Time>2014-11-04T18:11:34.0648007-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_pe.wav</Source>
@@ -2109,7 +2118,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pe.xnb</Output>
-      <Time>2014-11-04T18:11:34.0658018-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_pi.wav</Source>
@@ -2118,7 +2127,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_pi.xnb</Output>
-      <Time>2014-11-04T18:11:34.0678031-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_piz.wav</Source>
@@ -2127,7 +2136,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_piz.xnb</Output>
-      <Time>2014-11-04T18:11:34.0698045-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ra.wav</Source>
@@ -2136,7 +2145,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ra.xnb</Output>
-      <Time>2014-11-04T18:11:34.0718054-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_re.wav</Source>
@@ -2145,7 +2154,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_re.xnb</Output>
-      <Time>2014-11-04T18:11:34.0738067-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ro.wav</Source>
@@ -2154,7 +2163,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ro.xnb</Output>
-      <Time>2014-11-04T18:11:34.0748078-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_rra.wav</Source>
@@ -2163,7 +2172,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rra.xnb</Output>
-      <Time>2014-11-04T18:11:34.0768091-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_rro.wav</Source>
@@ -2172,7 +2181,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rro.xnb</Output>
-      <Time>2014-11-04T18:11:34.07881-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_rroz.wav</Source>
@@ -2181,7 +2190,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_rroz.xnb</Output>
-      <Time>2014-11-04T18:11:34.0828126-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_sa.wav</Source>
@@ -2190,7 +2199,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_sa.xnb</Output>
-      <Time>2014-11-04T18:11:34.0838137-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_san.wav</Source>
@@ -2199,7 +2208,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_san.xnb</Output>
-      <Time>2014-11-04T18:11:34.0868162-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_si.wav</Source>
@@ -2208,7 +2217,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_si.xnb</Output>
-      <Time>2014-11-04T18:11:34.0878164-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_so.wav</Source>
@@ -2217,7 +2226,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_so.xnb</Output>
-      <Time>2014-11-04T18:11:34.0898173-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ta.wav</Source>
@@ -2226,7 +2235,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ta.xnb</Output>
-      <Time>2014-11-04T18:11:34.0918186-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_te.wav</Source>
@@ -2235,7 +2244,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_te.xnb</Output>
-      <Time>2014-11-04T18:11:34.0928197-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ti.wav</Source>
@@ -2244,7 +2253,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ti.xnb</Output>
-      <Time>2014-11-04T18:11:34.0948223-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_to.wav</Source>
@@ -2253,7 +2262,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_to.xnb</Output>
-      <Time>2014-11-04T18:11:34.0968223-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_tor.wav</Source>
@@ -2262,7 +2271,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_tor.xnb</Output>
-      <Time>2014-11-04T18:11:34.0978234-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_va.wav</Source>
@@ -2271,7 +2280,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_va.xnb</Output>
-      <Time>2014-11-04T18:11:34.0998256-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <Item>
       <Source>Sonidos_silabas\sound_ña.wav</Source>
@@ -2280,7 +2289,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ña.xnb</Output>
-      <Time>2014-11-04T18:11:34.1018252-05:00</Time>
+      <Time>2014-11-04T18:11:36-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

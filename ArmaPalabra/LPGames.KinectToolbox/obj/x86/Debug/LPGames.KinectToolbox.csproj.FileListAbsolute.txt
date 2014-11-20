@@ -72,3 +72,10 @@ D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\LPGames.KinectToolbox.pdb
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.dll
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\LPGames.KinectToolbox\obj\x86\Debug\LPGames.KinectToolbox.pdb

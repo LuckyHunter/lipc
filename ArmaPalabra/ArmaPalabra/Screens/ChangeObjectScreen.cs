@@ -44,9 +44,9 @@ namespace ArmaPalabra.Screens
         {
             base.LoadContent();           
             backgroundPausa = Game.Content.Load<Texture2D>("FondoPausa");
-            botonAnimalesTxt2d = Game.Content.Load<Texture2D>("botonContinuar");
-            botonObjetosTxt2d = Game.Content.Load<Texture2D>("botonContinuar");
-            botonComidaTxt2d = Game.Content.Load<Texture2D>("botonContinuar");
+            botonAnimalesTxt2d = Game.Content.Load<Texture2D>("botonOtroElemento");
+            botonObjetosTxt2d = Game.Content.Load<Texture2D>("botonOtroElemento");
+            botonComidaTxt2d = Game.Content.Load<Texture2D>("botonOtroElemento");
             tituloTexture = Game.Content.Load<Texture2D>("tituloPausa");
             this.AgregarComponentesVista();
             SharedKinectCursor.CurrentPosition = new Vector2(0, 0);

@@ -217,6 +217,7 @@ namespace ArmaPalabra
                 case TipoScreen.Game:
                     if (SesionPartida.Instancia.finPartida)
                     {
+                        //System.Threading.Thread.Sleep(10000);
                         SesionPartida.Instancia.Ventana = (int)TipoScreen.NextLevel;
                         //SesionPartida.Instancia.partidaActual.horaFin = DateTime.Now;
                         if(this.Components.Contains(pauseScreen))

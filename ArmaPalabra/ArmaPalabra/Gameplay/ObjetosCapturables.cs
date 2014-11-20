@@ -52,6 +52,10 @@ namespace ArmaPalabra.Gameplay
         bool nivelTreminado = false;
         bool findeJuego = false;
 
+        
+        int contadorsiguientenivel = 0;
+        bool activadorcontadorsiguintenivel = false;
+
 
 
         //-----------------Animales
@@ -266,9 +270,9 @@ namespace ArmaPalabra.Gameplay
                     Animales.Add("gato");
 
                     
-                    Animales.Add("perro");
+                  //  Animales.Add("perro");
                     //Animales.Add("cebra");
-                    //Animales.Add("conejo");
+                    Animales.Add("conejo");
                     //Animales.Add("jirafa");
 
 
@@ -328,7 +332,7 @@ namespace ArmaPalabra.Gameplay
 
                     Animales = new List<string>();
 
-                    Animales.Add("arroz");
+                   // Animales.Add("arroz");
                     Animales.Add("piña");
 
                     Animales.Add("pera");
@@ -376,16 +380,16 @@ namespace ArmaPalabra.Gameplay
                     Animales.Add("mesa");
                     Animales.Add("caja");
 
-                    Animales.Add("silla");
+                 //   Animales.Add("silla");
                     Animales.Add("lapiz");
 
-                    Animales.Add("borrador");
-                    Animales.Add("mochila");
+                  //  Animales.Add("borrador");
+                   // Animales.Add("mochila");
 
                     Animales.Add("pelota");
                     Animales.Add("reloj");
 
-                    Animales.Add("cuchara");
+                   // Animales.Add("cuchara");
                     Animales.Add("telefono");
 
                     Animales.Add("tijera");
@@ -1125,13 +1129,26 @@ namespace ArmaPalabra.Gameplay
                 else if(nivel+1 == niveles.Count) //Validadción para el último nivel
                 {
 
-                    System.Threading.Thread.Sleep(1000);
+                    //System.Threading.Thread.Sleep(10000);
 
                     findeJuego = true;
-                    
-                    SesionPartida.Instancia.finPartida = true;
+
+                    activadorcontadorsiguintenivel = true;
+
+                    if (contadorsiguientenivel > 0)
+                    {
+
+                        SesionPartida.Instancia.finPartida = true;
+                        activadorcontadorsiguintenivel = false;
+                        contadorsiguientenivel = 0;
+                        nivel++;
+                    }
+                    if (activadorcontadorsiguintenivel)
+                    {
+                        contadorsiguientenivel = contadorsiguientenivel + 1;
+                    }
                   
-                    nivel++;
+                    
                 }
 
             }

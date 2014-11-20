@@ -812,6 +812,7 @@ namespace ArmaPalabra.Screens
             }
             if (new TimeSpan(0, 0, SesionPartida.Instancia.tiempoSegundo).Minutes >= TIEMPO_JUEGO)
             {
+                //System.Threading.Thread.Sleep(4000);
                 SesionPartida.Instancia.finPartida = true;
                 MediaPlayer.Stop();
                 salirScreenEventArgs(this, new ScreenEventArgs(TipoScreen.Game));
@@ -993,7 +994,7 @@ namespace ArmaPalabra.Screens
                 IDrawable b = (IDrawable)Components.Last() ;
                 b.Draw(gameTime);
                                 
-                if (contadorPantallGrande > 70)
+                if (contadorPantallGrande > 1)
                 {
                     switch (palabraactual)
                     {

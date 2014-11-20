@@ -9,3 +9,4 @@ C:\Users\Oscar\Documents\lipc_Union - Copy\lipc\ArmaPalabra\ArmaPalabraContent\o
 D:\TDP1\lipc_Union - Final\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
 D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\ArmaPalabraContent\obj\x86\Debug\ArmaPalabraContent.contentprojResolveAssemblyReference.cache
