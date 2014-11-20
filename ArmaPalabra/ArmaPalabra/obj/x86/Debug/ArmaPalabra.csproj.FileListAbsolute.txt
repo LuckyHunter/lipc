@@ -2560,3 +2560,11 @@ D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\LPGames.KinectToolbox.pdb
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
 D:\TDP1\lipc_Union - Final v2 - Copy\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground2.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground3.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground4.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\gamePBackground5.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.exe.manifest
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\ArmaPalabra.application
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe.manifest
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.application

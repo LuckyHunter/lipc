@@ -42,7 +42,7 @@ namespace ArmaPalabra.Gameplay
         private int indice = 0;
         private int contadorSegundo = 0;
 
-
+        
 
 
 
@@ -265,7 +265,8 @@ namespace ArmaPalabra.Gameplay
                     Animales.Add("leon");
                     Animales.Add("gato");
 
-                    //Animales.Add("perro");
+                    
+                    Animales.Add("perro");
                     //Animales.Add("cebra");
                     //Animales.Add("conejo");
                     //Animales.Add("jirafa");
@@ -638,6 +639,7 @@ namespace ArmaPalabra.Gameplay
             LoadAnswer();
             LoadAnimal();
             VariablesGlobales.palabraActual = Animales[nivel];
+            VariablesGlobales.sonidoAnimal = true;
         }
 
         public bool ubicateQuestion()
@@ -980,10 +982,64 @@ namespace ArmaPalabra.Gameplay
         public override void Draw(GameTime gameTime)
         {
 
+           /* if (VariablesGlobales.pronunciarPalabra == true)
+            {
+                switch (VariablesGlobales.palabraActual)
+                {
+                    case "gato":
+
+                        System.Threading.Thread.Sleep(600);
+
+                        silabaGA.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaTO.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                    case "leon":
+
+                        System.Threading.Thread.Sleep(600);
+
+                        silabaLE.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaON.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                    case "perro":
+
+                        System.Threading.Thread.Sleep(600);
+
+                        silabaPE.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaRRO.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                    case "conejo":
+
+                        System.Threading.Thread.Sleep(600);
+
+                        silabaCO.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaNE.Play();
+                        System.Threading.Thread.Sleep(500);
+                        silabaJO.Play();
+                        System.Threading.Thread.Sleep(600);
+                        break;
+
+                }
+
+
+                VariablesGlobales.pronunciarPalabra = false;
+            }
+            */
+
             VariablesGlobales.palabraActual = Animales[nivel];
             lstObjetos.Last().Draw(gameTime);
             foreach (ObjetoCapturable oc in lstObjetos)
             {
+
                 if (oc.Visible && !oc.respuesta.Equals("animal"))
                     oc.Draw(gameTime);
             }
@@ -995,9 +1051,17 @@ namespace ArmaPalabra.Gameplay
 
             if (levelDone())
             {
+                //System.Threading.Thread.Sleep(1000);
+
+
+
+
+
                 nivelTreminado = true;
 
                 VariablesGlobales.pronunciarPalabra = true;
+
+
 
                 /*switch (VariablesGlobales.palabraActual)
                 {
@@ -1045,19 +1109,24 @@ namespace ArmaPalabra.Gameplay
 
                 }*/
 
-                
-                
-
-                //Deberia de haber una especie de animacion entre niveles 
+                                              //Deberia de haber una especie de animacion entre niveles 
                 if (nivel + 1 < niveles.Count)
                 {
+                    //System.Threading.Thread.Sleep(3000);
+                     
+
 
                     LoadWord();
                     LoadAnswer();
                     LoadAnimal();
+
+  //                  VariablesGlobales.sonidoAnimal = true;
                 }
                 else if(nivel+1 == niveles.Count) //Validadción para el último nivel
                 {
+
+                    System.Threading.Thread.Sleep(1000);
+
                     findeJuego = true;
                     
                     SesionPartida.Instancia.finPartida = true;

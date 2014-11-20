@@ -407,8 +407,16 @@ namespace ArmaPalabra.Screens
                     
                     if(VariablesGlobales.tipoObjeto==1)
                     {
-                    sonidoAnimal = this.Game.Content.Load<SoundEffect>("Sonidos_animales/sound_" + objetosCapturables.Animales[nivelTermimado]);
-                    sonidoAnimal.Play();
+
+
+
+
+                    //sonidoAnimal = this.Game.Content.Load<SoundEffect>("Sonidos_animales/sound_" + objetosCapturables.Animales[nivelTermimado]);
+             
+                        //System.Threading.Thread.Sleep(4000);
+             
+                        //sonidoAnimal.Play();
+                    VariablesGlobales.sonidoAnimal = true;
                     }
                        nivelTermimado++;
 
@@ -950,6 +958,28 @@ namespace ArmaPalabra.Screens
                 c.Draw(gameTime);
 
                 palabraactual = VariablesGlobales.palabraActual;
+
+
+                if(VariablesGlobales.sonidoAnimal )
+                  if(VariablesGlobales.tipoObjeto==1)
+                  {
+
+                      /*if (nivelTermimado > 0)
+                          nivelTermimado--;*/
+
+                      int nivelterminadoaux = 0;
+
+                      if(nivelTermimado >0)
+                       nivelterminadoaux = nivelTermimado - 1;
+                      
+                      sonidoAnimal = this.Game.Content.Load<SoundEffect>("Sonidos_animales/sound_" + objetosCapturables.Animales[nivelterminadoaux]);
+             
+                   //   System.Threading.Thread.Sleep(4000);
+             
+                      sonidoAnimal.Play();
+
+                      VariablesGlobales.sonidoAnimal = false;
+                  }
             }
             else
             {
@@ -1012,6 +1042,8 @@ namespace ArmaPalabra.Screens
                     VariablesGlobales.pronunciarPalabra = false;
                     contadorPantallGrande = 0;
                 }
+
+                //VariablesGlobales.pronunciarPalabra = false;
             }
             
             SharedSpriteBatch.Begin();

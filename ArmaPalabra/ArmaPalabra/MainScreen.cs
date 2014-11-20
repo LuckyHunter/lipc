@@ -131,6 +131,7 @@ namespace ArmaPalabra
             VariablesGlobales.nivel = 1;
             VariablesGlobales.tipoObjeto = 1;
             VariablesGlobales.pronunciarPalabra = false;
+                VariablesGlobales.sonidoAnimal = false;
             // TODO: use this.Content to load your game content here
         }
 
