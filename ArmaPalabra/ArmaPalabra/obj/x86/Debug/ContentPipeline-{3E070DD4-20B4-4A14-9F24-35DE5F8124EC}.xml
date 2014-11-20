@@ -1178,7 +1178,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonComenzar.xnb</Output>
-      <Time>2014-11-20T09:29:33.3934105-05:00</Time>
+      <Time>2014-11-20T10:58:26.7009622-05:00</Time>
     </Item>
     <Item>
       <Source>botonContinuar.jpg</Source>
@@ -1187,7 +1187,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonContinuar.xnb</Output>
-      <Time>2014-11-20T09:29:20.5114766-05:00</Time>
+      <Time>2014-11-20T10:59:10.7738869-05:00</Time>
     </Item>
     <Item>
       <Source>botonIrInicio.jpg</Source>
@@ -1196,7 +1196,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonIrInicio.xnb</Output>
-      <Time>2014-11-20T09:27:37.2470837-05:00</Time>
+      <Time>2014-11-20T10:59:19.6561179-05:00</Time>
     </Item>
     <Item>
       <Source>botonOtroElemento.jpg</Source>
@@ -1205,7 +1205,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonOtroElemento.xnb</Output>
-      <Time>2014-11-20T09:28:52.8590016-05:00</Time>
+      <Time>2014-11-20T10:59:30.0746189-05:00</Time>
     </Item>
     <Item>
       <Source>botonSalir.jpg</Source>
@@ -1214,7 +1214,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonSalir.xnb</Output>
-      <Time>2014-11-20T09:28:12.0955265-05:00</Time>
+      <Time>2014-11-20T10:59:38.7112472-05:00</Time>
     </Item>
     <Item>
       <Source>FuenteMensaje.spritefont</Source>
@@ -2290,6 +2290,33 @@
       <Options>None</Options>
       <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\Sonidos_silabas\sound_ña.xnb</Output>
       <Time>2014-11-04T18:11:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonAlimentos.jpg</Source>
+      <Name>botonAlimentos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonAlimentos.xnb</Output>
+      <Time>2014-11-20T10:59:48.6198824-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonAnimales.jpg</Source>
+      <Name>botonAnimales</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonAnimales.xnb</Output>
+      <Time>2014-11-20T10:59:56.2766719-05:00</Time>
+    </Item>
+    <Item>
+      <Source>botonObjetos.jpg</Source>
+      <Name>botonObjetos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonObjetos.xnb</Output>
+      <Time>2014-11-20T11:00:12.9703187-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

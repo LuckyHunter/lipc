@@ -70,7 +70,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>btkiyax+00tB5utH4Lwjuq81B9o=</dsig:DigestValue>
+        <dsig:DigestValue>LYEuTKPhZMIOWD7v7wL2R5w/tuQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -269,49 +269,76 @@
       <dsig:DigestValue>tk1lIJ7HICo5sWQXrP7DX4mXX9U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\botonComenzar.xnb" size="182187">
+  <file name="Content\botonAlimentos.xnb" size="364187">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>9W3POe+Zd0AAdejm3HPVAXiuvuQ=</dsig:DigestValue>
+      <dsig:DigestValue>AIwab0K7beYcv+hB53FyYJFuCxM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\botonContinuar.xnb" size="182187">
+  <file name="Content\botonAnimales.xnb" size="364187">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>dfiaMNGCCfQjYSdEbWxImSlljBE=</dsig:DigestValue>
+      <dsig:DigestValue>u3Vh6xyFfvd1YChlT3uLa3alHR8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\botonIrInicio.xnb" size="182187">
+  <file name="Content\botonComenzar.xnb" size="364187">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>xoNUCiEP5+Iazj31tcYwS4Rba9Q=</dsig:DigestValue>
+      <dsig:DigestValue>4fxT8Cc7e4UbZLpFOHtt0HJRTrY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\botonOtroElemento.xnb" size="182187">
+  <file name="Content\botonContinuar.xnb" size="364187">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>QTBAlf24lOfHIfVmRZJapGP/IIw=</dsig:DigestValue>
+      <dsig:DigestValue>6iRsfVIK2IjOUMvhYab0uZa6XDY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\botonSalir.xnb" size="182187">
+  <file name="Content\botonIrInicio.xnb" size="364187">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>2owfeX9nBhIKBJPClialKhI0Txg=</dsig:DigestValue>
+      <dsig:DigestValue>0UNRd2bAjUxSl9Wuc+oB4dNaT94=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\botonObjetos.xnb" size="364187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pwDB98IXXKbyo9ceKOya4qHWd1Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\botonOtroElemento.xnb" size="364187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xg8feEGryeyPusse3iPOEdgNOt0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\botonSalir.xnb" size="364187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>GeTZCypslysUeCwZszvn6XbBWx0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\burbuja.xnb" size="280943">

@@ -1345,6 +1345,16 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="botonAlimentos.jpg">
+      <Name>botonAlimentos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="botonAnimales.jpg">
+      <Name>botonAnimales</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
     <Compile Include="botonComenzar.jpg">
       <Name>botonComenzar</Name>
       <Importer>TextureImporter</Importer>
@@ -1357,6 +1367,11 @@
     </Compile>
     <Compile Include="botonIrInicio.jpg">
       <Name>botonIrInicio</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="botonObjetos.jpg">
+      <Name>botonObjetos</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

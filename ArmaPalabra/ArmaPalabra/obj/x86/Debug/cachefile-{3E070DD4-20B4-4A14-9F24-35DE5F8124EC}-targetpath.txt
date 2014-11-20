@@ -256,3 +256,6 @@ Content\Sonidos_silabas\sound_to.xnb
 Content\Sonidos_silabas\sound_tor.xnb
 Content\Sonidos_silabas\sound_va.xnb
 Content\Sonidos_silabas\sound_ña.xnb
+Content\botonAlimentos.xnb
+Content\botonAnimales.xnb
+Content\botonObjetos.xnb

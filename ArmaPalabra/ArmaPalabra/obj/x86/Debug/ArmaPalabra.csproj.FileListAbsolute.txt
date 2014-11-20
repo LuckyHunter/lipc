@@ -2839,3 +2839,6 @@ C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\
 C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.exe
 C:\Users\paco\Desktop\TDP 2\Semana 14\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\obj\x86\Debug\ArmaPalabra.pdb
 D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonOtroElemento.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonAlimentos.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonAnimales.xnb
+D:\TDP1\Repositorio2\lipc\ArmaPalabra\ArmaPalabra\bin\x86\Debug\Content\botonObjetos.xnb
