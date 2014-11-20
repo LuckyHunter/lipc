@@ -63,14 +63,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArmaPalabra.exe" size="90624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArmaPalabra.exe" size="91648">
       <assemblyIdentity name="ArmaPalabra" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>njUMsZT10C12VevQ5+zlqmQv+5s=</dsig:DigestValue>
+        <dsig:DigestValue>btkiyax+00tB5utH4Lwjuq81B9o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

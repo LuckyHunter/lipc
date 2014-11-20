@@ -273,7 +273,7 @@ namespace ArmaPalabra.Gameplay
                   //  Animales.Add("perro");
                     //Animales.Add("cebra");
                     Animales.Add("conejo");
-                    //Animales.Add("jirafa");
+                    Animales.Add("jirafa");
 
 
                     //          Animales.Add("caballo");
@@ -283,7 +283,7 @@ namespace ArmaPalabra.Gameplay
                     //  Animales.Add("abeja");
 
                     //Animales.Add("cerdo");
-                    //Animales.Add("foca");
+                    Animales.Add("foca");
                     //Animales.Add("lobo");
 
                     //Animales.Add("tigre");
@@ -336,16 +336,16 @@ namespace ArmaPalabra.Gameplay
                     Animales.Add("piña");
 
                     Animales.Add("pera");
-                    Animales.Add("torta");
+                  //  Animales.Add("torta");
 
                     Animales.Add("jamonada");
-                    Animales.Add("lechuga");
+                //    Animales.Add("lechuga");
 
                     Animales.Add("empanada");
                     Animales.Add("cereal");
 
                     //Animales.Add("sandia");
-                    Animales.Add("galleta");
+                   // Animales.Add("galleta");
 
                     //------Desordenar
                     for (int i = Animales.Count - 1; i > 0; i--)
@@ -381,13 +381,13 @@ namespace ArmaPalabra.Gameplay
                     Animales.Add("caja");
 
                  //   Animales.Add("silla");
-                    Animales.Add("lapiz");
+                   // Animales.Add("lapiz");
 
                   //  Animales.Add("borrador");
                    // Animales.Add("mochila");
 
                     Animales.Add("pelota");
-                    Animales.Add("reloj");
+                  //  Animales.Add("reloj");
 
                    // Animales.Add("cuchara");
                     Animales.Add("telefono");

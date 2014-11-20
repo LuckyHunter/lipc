@@ -998,6 +998,8 @@ namespace ArmaPalabra.Screens
                 {
                     switch (palabraactual)
                     {
+
+                            //Animales
                         case "gato":
 
                             System.Threading.Thread.Sleep(600);
@@ -1037,6 +1039,141 @@ namespace ArmaPalabra.Screens
                             System.Threading.Thread.Sleep(500);
                             silabaJO.Play();
                             System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "jirafa":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaJI.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaRA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaFA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "foca":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaFO.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaCA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        //Alimentos
+                        case "piña":
+                                 System.Threading.Thread.Sleep(600);
+
+                            silabaPI.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaÑA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "pera":
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaPE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaRA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "jamonada":
+
+                            System.Threading.Thread.Sleep(600);
+                            silabaJA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaMO.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaNA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaDA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "empanada":
+
+                            System.Threading.Thread.Sleep(600);
+                            silabaEM.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaPA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaNA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaDA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+
+                        case "cereal":
+
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaCE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaRE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaAL.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                    //objetos
+                        case "mesa":
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaME.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaSA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "caja":
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaCA.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaJA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "pelota":
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaPE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaLO.Play();
+                              System.Threading.Thread.Sleep(500);
+                            silabaTA.Play();
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "telefono":
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaTE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaLE.Play();
+                                System.Threading.Thread.Sleep(500);
+                            silabaFO.Play();
+                                System.Threading.Thread.Sleep(500);
+                            silabaNO.Play();
+
+                            System.Threading.Thread.Sleep(600);
+                            break;
+
+                        case "tijera":
+                            System.Threading.Thread.Sleep(600);
+
+                            silabaTI.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaJE.Play();
+                            System.Threading.Thread.Sleep(500);
+                            silabaRA.Play();
+                                 System.Threading.Thread.Sleep(600);
                             break;
 
                     }
